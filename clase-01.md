@@ -5,7 +5,7 @@ Los temas vistos en esta clase fueron:
 - [Declaratividad](http://wiki.uqbar.org/wiki/articles/declaratividad.html)
 - [Expresividad](http://wiki.uqbar.org/wiki/articles/expresividad.html)
 - [Abstracción](http://wiki.uqbar.org/wiki/articles/abstraccion.html)
-- [Efecto colateral, asignación destructiva y transparencia referencial (definiciones)](http://wiki.uqbar.org/wiki/articles/transparencia-referencial--efecto-de-lado-y-asignacion-destructiva.html]
+- [Efecto colateral, asignación destructiva y transparencia referencial (definiciones)](http://wiki.uqbar.org/wiki/articles/transparencia-referencial--efecto-de-lado-y-asignacion-destructiva.html)
 
 El siguiente apunte abarca los contenidos de la clase de hoy: [Integración de conceptos](https://docs.google.com/document/d/1QP1ftd6jvAlVZOAsVPJ_1I0O7WW9MaIrn6zfW-iJdrY)
 
