@@ -7,8 +7,10 @@ para el cual usaremos el lenguaje [Haskell](https://pdep.com.ar/software/softwar
 y vimos los siguientes temas:
 - [Concepto de función](http://wiki.uqbar.org/wiki/articles/concepto-de-funcion.html)
 (principalmente desde el punto de vista de transformación matemática e imperativo)
-- [Efecto, Asignación y Transparencia Referencial](http://wiki.uqbar.org/wiki/articles/transparencia-referencial--efecto-de-lado-y-asignacion-destructiva.html)
-- Su principal operación: la [aplicación](http://wiki.uqbar.org/wiki/articles/aplicacion.html)
+  - Cumplen con unicidad y existencia, esto nos permite asegurar que luego de aplicar una función obtendremos siempre un único valor.
+  - Tienen [transparencia referencial](http://wiki.uqbar.org/wiki/articles/transparencia-referencial--efecto-de-lado-y-asignacion-destructiva.html)
+  - Las variables son incógnitas como las de matemática, no pensarlas como posiciones de memoria, no se pueden asignar.
+  - Su principal operación: la [aplicación](http://wiki.uqbar.org/wiki/articles/aplicacion.html).
 - Introducción a [tipado de Haskell](http://wiki.uqbar.org/wiki/articles/tipos-de-haskell.html):
   - Tipos de datos simples (Int, Float, Bool, ...)
   - Introducción a typeclasses (Num, Ord, Eq)
