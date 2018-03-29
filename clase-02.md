@@ -20,7 +20,7 @@ Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/eje
 
 ## Para profundizar y ejercitar
 
-- De la [sección de apuntes](https://pdep.com.ar/material/apuntes): Módulo 1 de funcional
+- De la [sección de apuntes](www.pdep.com.ar/material/apuntes): Módulo 1 de funcional
 - De [Mumuki](https://mumuki.io/chapters/82-programacion-funcional):
   - Valores y Funciones (Ejercicios 1 al 9 inclusive)
   - Práctica Valores y Funciones (todavía no vimos composición, si les pide usar ese concepto, vale saltear el ejercicio y hacerlo luego). Ejercicios sugeridos de esta guía:
