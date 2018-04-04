@@ -26,3 +26,5 @@ Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/eje
   - Práctica Valores y Funciones (todavía no vimos composición, si les pide usar ese concepto, vale saltear el ejercicio y hacerlo luego). Ejercicios sugeridos de esta guía:
     - esCuadradoPerfecto
     - dispersion
+
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-01.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-03.md)
