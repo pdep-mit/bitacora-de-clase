@@ -16,3 +16,5 @@ En esta clase vimos los siguientes temas:
   - Aplicación Parcial y Orden Superior (Ejercicios 1 al 4 inclusive).
   - Práctica Aplicación Parcial y Orden Superior (hasta ejercicio 6). Ejercicio sugerido de esta guía:
     - cuantoPagaCadaUno
+
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-02.md)
