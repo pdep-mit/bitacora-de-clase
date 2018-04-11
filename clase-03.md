@@ -19,4 +19,4 @@ Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/eje
   - Práctica Aplicación Parcial y Orden Superior (hasta ejercicio 6). Ejercicio sugerido de esta guía:
     - cuantoPagaCadaUno
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-02.md)
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-02.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-04.md)
