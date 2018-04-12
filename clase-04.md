@@ -21,6 +21,7 @@ El código de la clase lo puede encontrar acá:
   - Práctica Recursividad (excepto ejercicios 14, 17 y 18). Ejercicios sugeridos de esta guía:
     - maximo
     - interseccion  
+  - [Guía extra: Modelado (hasta ejercicio 13)](https://mumuki.io/complements/55-modelado)
 - [Tablita de Pattern Matching](https://docs.google.com/document/d/1xFuTdroCDjEPNYFjaY34iByjxU8X-J6OX744QhGwXgY/edit)
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-03.md)
