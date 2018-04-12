@@ -18,7 +18,9 @@ El código de la clase lo puede encontrar acá:
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 3 y 4 de funcional.
 - De [Mumuki](https://mumuki.io/chapters/82-programacion-funcional):
   - Guardas y Pattern Matching
-  - Práctica Recursividad (excepto ejercicios 14, 17 y 18)
+  - Práctica Recursividad (excepto ejercicios 14, 17 y 18). Ejercicios sugeridos de esta guía:
+    - maximo
+    - interseccion  
 - [Tablita de Pattern Matching](https://docs.google.com/document/d/1xFuTdroCDjEPNYFjaY34iByjxU8X-J6OX744QhGwXgY/edit)
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-03.md)
