@@ -11,4 +11,4 @@ Repositorio público de base con código inicial y enunciado: https://github.com
 
 Luego de armar los grupos en el classroom de github, van a poder encontrar su repositorio en: https://github.com/pdep-mit
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-04.md)
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-04.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-06.md)
