@@ -30,7 +30,7 @@ Basándonos en el ejercicio [intercalar de la guía de Recursividad](https://mum
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 5 y 6 de funcional.
 - De [Mumuki](https://mumuki.io/chapters/82-programacion-funcional), con lo que vimos ya podrían hacer todas las guías, pero en particular los siguientes son los ejercicios propuestos para la clase que viene:
- - De la práctica de Aplicación Parcial y Orden Superior: pam
- - De la práctica de Listas: iniciales
+  - De la práctica de Aplicación Parcial y Orden Superior: pam
+  - De la práctica de Listas: iniciales
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-05.md)
