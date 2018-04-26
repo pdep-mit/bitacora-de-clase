@@ -18,7 +18,7 @@ Entre las funciones de orden superior que vimos en esta clase están:
 
 Además aprovechamos para ver una forma más de definir funciones, que es particularmente útil para salir del paso ocasionalmente al trabajar con funciones de orden superior: [las expresiones lambda](http://wiki.uqbar.org/wiki/articles/expresiones-lambda.html).
 
-El código de la clase lo puede encontrar [acá]().
+El código de la clase lo puede encontrar [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/clase4.hs).
 
 Con esto ya casi que vimos todos los temas de este paradigma, nos falta terminar de formalizar algunas cosas de tipado y revelar un par de misterios más que tenemos bajo la manga. Pero lo que falta sobre todo es práctica, mucha, para terminar de dominar las herramientas así como incorporar algunas nociones más de diseño.
 
