@@ -24,7 +24,7 @@ Con esto ya casi que vimos todos los temas de este paradigma, nos falta terminar
 
 ## Desafío café con leche!
 
-Basándonos en el ejercicio [intercalar de la guía de Recursividad](https://mumuki.io/exercises/1914-programacion-funcional-practica-recursividad-intercalar), el desafío es resolver el problema sólo con un llamado a fold (la variante que consideren más apropiada). Alcanza con que funcione para listas de al menos un elemento. La primer persona que me mande una solución que cumpla con estas pautas a (mi mail)[mailto:mmatos87@gmail.com], se gana un café con leche para la próxima clase.
+Basándonos en el ejercicio [intercalar de la guía de Recursividad](https://mumuki.io/exercises/1914-programacion-funcional-practica-recursividad-intercalar), el desafío es resolver el problema sólo con un llamado a fold (la variante que consideren más apropiada). Alcanza con que funcione para listas de al menos un elemento. La primer persona que me mande una solución que cumpla con estas pautas a [mi mail](mailto:mmatos87@gmail.com), se gana un café con leche para la próxima clase.
 
 ## Para profundizar y ejercitar
 
