@@ -33,4 +33,4 @@ Basándonos en el ejercicio [intercalar de la guía de Recursividad](https://mum
   - De la práctica de Aplicación Parcial y Orden Superior: pam
   - De la práctica de Listas: iniciales
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-05.md)
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-05.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-07.md)
