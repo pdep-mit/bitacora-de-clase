@@ -6,4 +6,4 @@ En esta clase resolvimos el parcial [LambdaProp](https://github.com/pdep-mit/eje
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulo 7 de funcional.
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-07.md)
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-07.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-09.md)
