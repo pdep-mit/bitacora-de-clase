@@ -13,7 +13,8 @@ Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/eje
 ## Para profundizar y ejercitar
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 1 y 2 de Lógico.
-- De [Mumuki](https://mumuki.io/chapters/8-programacion-logica) pueden trabajar con las primeras dos guías.
-  - Ejercicio sugerido de la guía práctica: gustaDe
+- De [Mumuki](https://mumuki.io/chapters/8-programacion-logica) pueden trabajar con las primeras dos guías. Ejercicios sugeridos de la guía práctica:
+  - puedeAndar
+  - gustaDe
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-10.md)
