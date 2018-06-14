@@ -8,6 +8,8 @@ Uno de los temas que introdujimos en esta clase es uno de los puntos fuertes de 
 
 [Resumen de nomenclatura](http://wiki.uqbar.org/wiki/articles/paradigma-logico---un-poco-de-nomenclatura.html).
 
+Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase1.pl)
+
 ## Para profundizar y ejercitar
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 1 y 2 de Lógico.
