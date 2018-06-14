@@ -4,3 +4,4 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
 
 - [Introducción a la materia](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-01.md)
 - [Primera clase de Funcional](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-02.md)
+- [Primera clase de Lógico](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-11.md)
