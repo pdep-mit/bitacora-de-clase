@@ -17,4 +17,4 @@ Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/eje
   - puedeAndar
   - gustaDe
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-10.md)
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-10.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-12.md)
