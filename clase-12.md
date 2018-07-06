@@ -19,4 +19,4 @@ Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/eje
   - Gran compañero de viaje (guía 4)
   - Asesinato (guía 7)
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-11.md)
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-11.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-13.md)

@@ -16,3 +16,4 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
 - Paradigma Lógico
   - [Introducción a Lógico](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-11.md)
   - [Lógica de Primer Orden](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-12.md)
+  - [Functores y polimorfismo - Ejercicio semi-integrador 1: Pulp Fiction](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-13.md)
