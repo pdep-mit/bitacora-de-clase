@@ -18,4 +18,4 @@ Pueden encontrar el código de esta clase acá:
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): en el Módulo 3 se explica functores y polimorfismo, pero en el medio también se explican las listas que preferimos no introducir aún. Pueden complementar lo visto con ese apunte, pero no lo recomiendo a esta altura para evitar confusiones.
 - De [Mumuki](https://mumuki.io/chapters/8-programacion-logica) pueden trabajar con las guías de Aritmética y Functores. Además la práctica de Inversibilidad ya la pueden hacer completa.
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-12.md)
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-12.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-14.md)
