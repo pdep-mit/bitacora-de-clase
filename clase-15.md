@@ -21,4 +21,4 @@ Acá pueden encontrar el [código](https://github.com/pdep-mit/ejemplos-de-clase
   - Y si con la PPT de "Donny, no!" se quedaron con dudas, pueden ver ejemplos concretos en el Módulo 6 en la sección de Code Smells.
 - De [Mumuki](https://mumuki.io/chapters/8-programacion-logica) pueden trabajar con todas las guías, ya que terminamos de ver todo el contenido teórico que teníamos planeado para este paradigma.
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-14.md)
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-14.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16.md)
