@@ -20,3 +20,5 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
   - [Ejercicio semi-integrador 2: Harry Potter](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-14.md)
   - [Listas](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-15.md)
   - [Ejercicio integrador: Who you gonna call?](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16.md)
+- Paradigma Orientado a Objetos
+  - [Introducción a Objetos](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-17.md)
