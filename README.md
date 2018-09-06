@@ -22,3 +22,4 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
   - [Ejercicio integrador: Who you gonna call?](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16.md)
 - Paradigma Orientado a Objetos
   - [Introducción a Objetos](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-17.md)
+  - [Ejercicio: Testeo Unitario](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-18.md)

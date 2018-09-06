@@ -24,4 +24,4 @@ Finalmente, [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/mas
 
 Nota: Las guías de Mumuki de objetos que pueden encontrar en [mumuki.io](https://mumuki.io/chapters/71-programacion-con-objetos) están en Ruby. No las vamos a usar en la materia, pero si quieren aprender Ruby por su cuenta, son libres de hacerlo obviamente. Las guías de Wollok están en construcción, esperamos poder mejoraras y complementarlas pronto.
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16.md) - Clase siguiente >
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-18.md)
