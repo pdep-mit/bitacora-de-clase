@@ -16,4 +16,4 @@ Una vez que tengan eso, luego de cada clase pueden usar la opción Team -> Pull 
 
 Para más información sobre la integración Wollok + GIT, pueden referirse al Anexo correspondiente de la [sección de apuntes](http://www.pdep.com.ar/material/apuntes). Este apunte profundiza más de lo que necesitan en muchas cosas, sobre todo siendo que ya estuvimos trabajando con git desde el principio. Lo que recomiendo leer es: cómo clonar, cómo hacer pull, cómo hacer commit y push y sobre todo el **flujo de trabajo simple**.
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-17.md) - Clase siguiente >
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-17.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-19.md)

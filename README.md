@@ -23,3 +23,4 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
 - Paradigma Orientado a Objetos
   - [Introducción a Objetos](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-17.md)
   - [Ejercicio: Testeo Unitario](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-18.md)
+  - [Bloques y Colecciones](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-19.md)
