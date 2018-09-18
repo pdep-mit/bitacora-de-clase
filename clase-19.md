@@ -4,7 +4,7 @@ En esta clase vimos dos tipos de objetos muy útiles:
 - [Bloques](http://wiki.uqbar.org/wiki/articles/bloques.html)
 - [Colecciones](http://wiki.uqbar.org/wiki/articles/intro-a-colecciones.html)
 
-Pueden encontrar el código de la clase [acá](https://docs.google.com/document/d/14RmgfZC6RjwK20G-pnzFUNqFeMAwfUwaJiQGX9hcUhM/edit?usp=sharing).
+Pueden encontrar el enunciado de la clase [acá](https://docs.google.com/document/d/14RmgfZC6RjwK20G-pnzFUNqFeMAwfUwaJiQGX9hcUhM/edit?usp=sharing).
 
 ## Para profundizar y ejercitar
 
