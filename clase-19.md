@@ -4,6 +4,8 @@ En esta clase vimos dos tipos de objetos muy útiles:
 - [Bloques](http://wiki.uqbar.org/wiki/articles/bloques.html)
 - [Colecciones](http://wiki.uqbar.org/wiki/articles/intro-a-colecciones.html)
 
+Pueden encontrar el código de la clase [acá](https://docs.google.com/document/d/14RmgfZC6RjwK20G-pnzFUNqFeMAwfUwaJiQGX9hcUhM/edit?usp=sharing).
+
 ## Para profundizar y ejercitar
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): el módulo 4 explica qué son y cómo se usan los bloques y las colecciones (sets y listas) en Wollok.
