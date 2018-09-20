@@ -11,4 +11,4 @@ Pueden encontrar el enunciado de la clase [acá](https://docs.google.com/documen
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): el módulo 4 explica qué son y cómo se usan los bloques y las colecciones (sets y listas) en Wollok.
 - De [Mumuki](https://wollok.mumuki.io/chapters/31-programacion-con-objetos): la lección 4 introduce estos temas, y pueden complementar con la lección 7 para trabajar con una ejercitación menos guiada.
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-18.md) - Clase siguiente >
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-18.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-20.md)
