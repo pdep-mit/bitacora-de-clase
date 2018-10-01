@@ -8,4 +8,4 @@ Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemp
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): los módulos 8 y 9 explican todo lo que vimos en la clase de ayer. Además pueden leer sobre algo que se nos pasó contarles durante la ejercitación que son las properties de Wollok (módulo 7 de los apuntes), para reducir la burocracia de definir getters y setters a mano.
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-19.md) - Clase siguiente >
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-19.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-21.md)
