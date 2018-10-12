@@ -26,3 +26,4 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
   - [Bloques y Colecciones](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-19.md)
   - [Clases](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-20.md)
   - [Ejercicio: Clases y colecciones](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-21.md)
+  - [Herencia](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-22.md)
