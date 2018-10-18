@@ -12,4 +12,4 @@ Pueden encontrar el código de la clase y el diagrama (esta vez generado por Wol
 
 Siguiendo la misma temática, hay una guía de Herencia que pueden usar a modo de repaso en [Mumuki](https://mumuki.io/wollok/chapters/31-programacion-con-objetos).
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-21.md) - Clase siguiente >
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-21.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-23.md)
