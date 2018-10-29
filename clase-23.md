@@ -14,4 +14,4 @@ Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemp
   - El Módulo 10 explica la necesidad, buenos y malos usos.
   - El Módulo 11 explica, entre muchas otras cosas que pueden interesarles, cómo testear casos infelices.
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-22.md) - Clase siguiente >
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-22.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-24.md)

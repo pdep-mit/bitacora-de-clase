@@ -28,3 +28,4 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
   - [Ejercicio: Clases y colecciones](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-21.md)
   - [Herencia](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-22.md)
   - [Excepciones](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-23.md)
+  - [Herencia vs. Composición](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-24.md)
