@@ -8,4 +8,4 @@ Pueden encontrar el código de la clase en sus dos versiones (y con algunos agre
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): ver el Módulo 17.
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-23.md) - Clase siguiente >
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-23.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-25.md)
