@@ -1,14 +1,19 @@
-# Laboratorio - Trabajo en equipo
+# Composición y aplicación parcial
 
-- [Apunte de la clase](https://drive.google.com/file/d/1s-ACSAjGru4FdsjVsDRly5dOlfm_Yzmg/view)
-- [Git - apunte introductorio](https://docs.google.com/document/d/166ksg4rSAIrYWStR5yHrUQjFp1OY3DvSoLMcA8CYc34/edit#heading=h.7urotmir6l2i)
-- [Guía de referencia de GIT](https://docs.google.com/document/d/147cqUY86wWVoJ86Ce0NoX1R78CwoCOGZtF7RugUvzFg/edit#heading=h.pfzudah6sze2)
-- [Bonus: Testeo con HSpec](https://docs.google.com/document/d/17EPSZSw7oY_Rv2VjEX2kMZDFklMOcDVVxyve9HSG0mE/edit#)
+## Temas de la clase
 
-## Repos de la clase de hoy
+En esta clase vimos los siguientes temas:
+- [Composición de funciones](http://wiki.uqbar.org/wiki/articles/composicion.html)
+- [Aplicación parcial](http://wiki.uqbar.org/wiki/articles/aplicacion-parcial.html) y [Currificación](http://wiki.uqbar.org/wiki/articles/currificacion.html)
+- Y de yapa, [Notación Point-free](http://wiki.uqbar.org/wiki/articles/notacion-point-free.html)
 
-Repositorio público de base con código inicial y enunciado: https://github.com/pdep-mit/pdep-lab-git-2018
+## Para profundizar y ejercitar
 
-Luego de armar los grupos en el classroom de github, van a poder encontrar su repositorio en: https://github.com/pdep-mit
+- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulo 2 de funcional.
+- De Mumuki:
+  - Ya pueden terminar Valores y Funciones y su práctica asociada.
+  - Introducción tipos de dato, hasta ejercicio 9 inclusive.
+  - Aplicación Parcial y Orden Superior (Ejercicios 1 al 4 inclusive).
+  - Práctica Aplicación Parcial y Orden Superior (hasta ejercicio 6).
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-04.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-06.md)

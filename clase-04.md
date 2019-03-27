@@ -1,27 +1,14 @@
-# Tipos de datos compuestos
+# Laboratorio - Trabajo con versionado de código
 
-## Temas de la clase
+- [Apunte de la clase](https://drive.google.com/file/d/1s-ACSAjGru4FdsjVsDRly5dOlfm_Yzmg/view)
+- [Git - apunte introductorio](https://docs.google.com/document/d/166ksg4rSAIrYWStR5yHrUQjFp1OY3DvSoLMcA8CYc34/edit#heading=h.7urotmir6l2i)
+- [Guía de referencia de GIT](https://docs.google.com/document/d/147cqUY86wWVoJ86Ce0NoX1R78CwoCOGZtF7RugUvzFg/edit#heading=h.pfzudah6sze2)
+- [Bonus: Testeo con HSpec](https://docs.google.com/document/d/17EPSZSw7oY_Rv2VjEX2kMZDFklMOcDVVxyve9HSG0mE/edit#)
 
-En esta clase vimos los siguientes temas:
-- [Recursividad](http://wiki.uqbar.org/wiki/articles/recursividad-en-haskell.html)
-- [Tipos compuestos: Tuplas, Listas y datas](http://wiki.uqbar.org/wiki/articles/tipos-de-haskell.html)
-- [Más sobre datas](http://wiki.uqbar.org/wiki/articles/data--definiendo-nuestros-tipos-en-haskell.html)
-- [Pattern Matching](http://wiki.uqbar.org/wiki/articles/pattern-matching-en-haskell.html)
-- [Inmutabilidad](http://wiki.uqbar.org/wiki/articles/inmutabilidad.html)
+## Repo de la clase de hoy
 
-El código de la clase lo puede encontrar acá:
-- [Primera parte: Recursividad, Pattern Matching y Tuplas](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/clase3.1.hs)
-- [Segunda parte: Datas, Listas y ejercicio integrador con un par de puntos para continuar](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/clase3.2.hs)
+Para arrancar tienen que [aceptar el assignment](#).
 
-## Para profundizar y ejercitar
-
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 3 y 4 de funcional.
-- De [Mumuki](https://mumuki.io/chapters/82-programacion-funcional):
-  - Guardas y Pattern Matching
-  - Práctica Recursividad (excepto ejercicios 14, 17 y 18). Ejercicios sugeridos de esta guía:
-    - maximo
-    - interseccion  
-  - [Guía extra: Modelado (hasta ejercicio 13)](https://mumuki.io/complements/55-modelado)
-- [Tablita de Pattern Matching](https://docs.google.com/document/d/1xFuTdroCDjEPNYFjaY34iByjxU8X-J6OX744QhGwXgY/edit)
+Luego de entrar al classroom de github para aceptar el assignment, van a poder encontrar su repositorio en: https://github.com/pdep-mit
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-03.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-05.md)
