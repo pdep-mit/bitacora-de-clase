@@ -10,6 +10,8 @@ En esta clase vimos los siguientes temas:
 - [Inmutabilidad](http://wiki.uqbar.org/wiki/articles/inmutabilidad.html)
 - [Typeclasses](http://wiki.uqbar.org/wiki/articles/typeclasses.html)
 
+Acá pueden encontrar el [código de la clase](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/clase2.hs).
+
 ## Para profundizar y ejercitar
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 1, 3 y 7 de funcional (teniendo en cuenta que todavía no vimos listas).
