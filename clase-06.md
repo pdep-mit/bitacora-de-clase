@@ -28,6 +28,8 @@ Con esto no queremos decir que nunca vayan a usar recursividad:
 - La recursividad es una gran herramienta cuando el problema tiene naturaleza recursiva (como el ejemplo del factorial), en cuyo caso la solución a la que lleguemos recursivamente a priori no va a ser criticable en términos de declaratividad.
 - La recursividad trabajando con listas a veces simplemente es necesaria, porque el problema no se ajusta bien al algoritmo de recorrido estándar que viene resuelto con las funciones de orden superior que ya existen.
 
+Pueden encontrar el código que hicimos en clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/clase5.hs).
+
 Luego de esta clase ya casi vimos todos los temas de este paradigma, nos falta revelar un par de misterios más que tenemos bajo la manga. Pero lo que falta sobre todo es práctica, mucha, para terminar de dominar las herramientas así como incorporar algunas nociones más de diseño.
 
 ## Para profundizar y ejercitar
