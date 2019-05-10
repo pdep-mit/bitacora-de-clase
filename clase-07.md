@@ -1,7 +1,10 @@
-# Modelado con funciones
+# Ejercitación: Orden Superior, Composición y Aplicación Parcial
 
-En esta clase resolvimos el ejercicio [Minigolfito](https://github.com/pdep-mit/ejemplos-de-clase-haskell/tree/master/clase5) con el objetivo de pensar formas alternativas de modelar las abstracciones de nuestro dominio. Sabiendo que las funciones son valores, ¿qué nos impide usarlas para modelar los datos y no sólo las operaciones?
+En esta clase trabajamos con el ejercicio de [Breaking Bad](https://docs.google.com/document/d/1xUaRmTv6c3n2cUid-X-r_eLKOYVj1PyG7TtHZJRCvKA/edit?ts=5cd09fd1) haciendo especial foco en:
+- [Composición](http://wiki.uqbar.org/wiki/articles/composicion.html)
+- [Aplicación parcial](http://wiki.uqbar.org/wiki/articles/aplicacion-parcial.html)
+- [Orden superior](http://wiki.uqbar.org/wiki/articles/orden-superior.html)
 
-Algo que tenemos que tener en cuenta es que las funciones no son mostrables por consola (Show) ni son comparables por igualdad (Eq), lo cual complica un poco algunas cosas, sobre todo cuando queremos saber si nuestro programa está funcionando... Pero vimos cómo podemos solventar esos problemas, siendo una estrategia válida definir instancias de las clases Show y Eq para nuestros datas sin tener que depender exclusivamente de que los componentes puedan mostrarse y compararse.
+Estos 3 conceptos se llevan especialmente bien cuando se combinan, ya que nos permiten llegar a soluciones muy poderosas a partir de funciones chiquitas bien combinadas.
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-06.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-07.md)

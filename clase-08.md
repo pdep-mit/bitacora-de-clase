@@ -1,9 +1,11 @@
-# Inferencia de tipos
+# Modelado con funciones
 
-En esta clase resolvimos el parcial [LambdaProp](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/clase6.hs) a modo de ejercitación y también como medio para terminar de formalizar un tema con el que ya veníamos trabajando de forma más "intuitiva": [Inferencia de tipos](http://wiki.uqbar.org/wiki/articles/inferencia-de-tipos.html). Pueden encontrar algunos ejemplos explicados paso a paso en [este artículo](http://wiki.uqbar.org/wiki/articles/calculo-del-tipo-de-una-funcion-en-haskell.html).
+En esta clase resolvimos el ejercicio [Gravity Falls - Las Rarezas](https://docs.google.com/document/d/1ivhqJIWGanstr324ElRY6lev0b0UN-QN3kcYFH9wqMs/edit#heading=h.slln8607g6w) con el objetivo de pensar formas alternativas de modelar las abstracciones de nuestro dominio. Sabiendo que las funciones son valores, ¿qué nos impide usarlas para modelar los datos y no sólo las operaciones?
 
-## Para profundizar
+Algo que tenemos que tener en cuenta es que las funciones no son mostrables por consola (Show) ni son comparables por igualdad (Eq), lo cual complica un poco algunas cosas, sobre todo cuando queremos saber si nuestro programa está funcionando... Pero vimos cómo podemos solventar esos problemas, siendo una estrategia válida definir instancias de las clases Show y Eq para nuestros datas sin tener que depender exclusivamente de que los componentes puedan mostrarse y compararse.
 
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulo 7 de funcional.
+## Para profundizar y ejercitar
+- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulo 3 de funcional
+- De Mumuki, los últimos ejercicios de la guía de Modelado.
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-07.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-09.md)
