@@ -7,4 +7,6 @@ En esta clase trabajamos con el ejercicio de [Breaking Bad](https://docs.google.
 
 Estos 3 conceptos se llevan especialmente bien cuando se combinan, ya que nos permiten llegar a soluciones muy poderosas a partir de funciones chiquitas bien combinadas.
 
+Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/clase6.hs).
+
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-06.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-07.md)
