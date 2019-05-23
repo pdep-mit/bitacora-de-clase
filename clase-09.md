@@ -1,4 +1,4 @@
-# Estrategias de Evaluación, Inferencia revisitada
+# Estrategias de Evaluación, Typeclasses e Inferencia revisitada
 
 En esta clase estuvimos viendo los siguientes temas:
 - [Estrategias de Evaluación](http://wiki.uqbar.org/wiki/articles/estrategias-de-evaluacion.html)
