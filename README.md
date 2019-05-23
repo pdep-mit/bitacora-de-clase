@@ -11,7 +11,7 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
   - [Listas, Recursividad vs. Orden Superior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-06.md)
   - [Práctica: Orden Superior, Composición y Aplicación Parcial - Ejercicio: Breaking Bad](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-07.md)
   - [Modelado con funciones - Ejercicio: Gravity Falls - Las Rarezas](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-08.md)
-  - [Estrategias de Evaluación, Inferencia de tipos](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-09.md)
+  - [Estrategias de Evaluación, Typeclasses e Inferencia de tipos](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-09.md)
   - [Ejercicio integrador: Interestelar](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-10.md)
 - Paradigma Lógico
   - [Introducción a Lógico](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-11.md)
