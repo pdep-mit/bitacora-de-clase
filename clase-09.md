@@ -7,6 +7,8 @@ En esta clase estuvimos viendo los siguientes temas:
 - Ampliamos un poco más cómo es que se trabaja con [Typeclasses](http://wiki.uqbar.org/wiki/articles/typeclasses.html) y cómo hacer para que nuestros tipos formen parte de una typeclass cuando el deriving no nos resuelve el problema, [definiendo nuestra propia instancia de la typeclass en cuestión](http://wiki.uqbar.org/wiki/articles/data--definiendo-nuestros-tipos-en-haskell.html#tocAnchor-1-6).
 - Revisitamos [Inferencia de tipos](http://wiki.uqbar.org/wiki/articles/inferencia-de-tipos.html), para repasar la mecánica y reentender el tipado de funciones ahora que ya cubrimos todos los temas que planeábamos ver :smile:
 
+Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/clase8.hs) y de yapa, también está el [código C](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/clase8.c) que usamos para comparar estrategias de evaluación.
+
 ## Para profundizar y ejercitar
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 4 y 7 de funcional.
 - De Mumuki:
