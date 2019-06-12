@@ -12,4 +12,13 @@ Luego de entrar al classroom de github para aceptar el assignment, van a poder e
 
 Acá pueden encontrar el [enunciado](https://docs.google.com/document/d/1d0BVBwW8CnwffeFuG67csvWicWDBWc4OSpdEChZ_NXc/edit) para la clase de hoy.
 
+## Troubleshooting
+
+En las máquinas del laboratorio a veces quedan almacenadas credenciales ajenas. Para evitar problemas clonando y pusheando:
+1. Abrir el administrador de credenciales de windows.
+2. Buscar credenciales guardadas que digan git o GitHub.
+3. En caso de existir, borrarlas.
+
+No está de más revisar, antes de irse, que no hayan dejado credenciales propias guardadas luego de trabajar.
+
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-03.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-05.md)
