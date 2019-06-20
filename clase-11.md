@@ -1,6 +1,6 @@
 # Introducción al Paradigma Lógico
 
-En esta clase arrancamos con el [Paradigma Lógico](http://wiki.uqbar.org/wiki/articles/paradigma-logico.html).
+En esta clase arrancamos con el [Paradigma Lógico](http://wiki.uqbar.org/wiki/articles/paradigma-logico.html) de la mano del lenguaje [Prolog](http://www.pdep.com.ar/software/software-swi-prolog).
 
 Acá pueden encontrar una [introducción al paradigma](http://wiki.uqbar.org/wiki/articles/paradigma-logico---introduccion.html) que sienta las bases de cómo trabajar, y cómo se resuelven con estas herramientas básicas la [conjunción y disyunción](http://wiki.uqbar.org/wiki/articles/paradigma-logico---conjuncion-y-disyuncion.html). Hasta ahora trabajamos sólo con [individuos simples](http://wiki.uqbar.org/wiki/articles/paradigma-logico---individuos-simples.html).
 
