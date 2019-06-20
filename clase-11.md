@@ -6,7 +6,7 @@ Acá pueden encontrar una [introducción al paradigma](http://wiki.uqbar.org/wik
 
 Uno de los temas que introdujimos en esta clase es uno de los puntos fuertes de este paradigma y es el concepto de [inversibilidad](http://wiki.uqbar.org/wiki/articles/paradigma-logico---inversibilidad.html), lo cual permite hacer consultas con [múltiples respuestas](http://wiki.uqbar.org/wiki/articles/paradigma-logico---multiples-respuestas.html). Profundizaremos más adelante el tema de inversibilidad.
 
-[Resumen de nomenclatura](http://wiki.uqbar.org/wiki/articles/paradigma-logico---un-poco-de-nomenclatura.html).
+[Resumen de nomenclatura](http://wiki.uqbar.org/wiki/articles/paradigma-logico---un-poco-de-nomenclatura.html) <-- Repasar esto si no recordás a qué nos referimos al decir predicado, hecho, regla, cláusula, aridad, consulta, individuo, átomo...
 
 Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase1.pl)
 
