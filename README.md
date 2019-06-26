@@ -16,10 +16,10 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
 - Paradigma Lógico
   - [Introducción a Lógico](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-11.md)
   - [Lógica de Primer Orden](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-12.md)
-  - [Functores y polimorfismo - Ejercicio semi-integrador 1: Pulp Fiction](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-13.md)
-  - [Ejercicio semi-integrador 2: Harry Potter](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-14.md)
+  - [Ejercicio](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-13.md)
+  - [Functores y polimorfismo](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-14.md)
   - [Listas](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-15.md)
-  - [Ejercicio integrador: Who you gonna call?](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16.md)
+  - [Ejercicio integrador](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16.md)
 - Paradigma Orientado a Objetos
   - [Introducción a Objetos](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-17.md)
   - [Ejercicio: Testeo Unitario](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-18.md)

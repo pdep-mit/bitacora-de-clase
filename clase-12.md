@@ -13,10 +13,6 @@ Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/eje
 ## Para profundizar y ejercitar
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulo 4 de Lógico hasta sección 4 inclusive.
-- De [Mumuki](https://mumuki.io/chapters/8-programacion-logica) pueden trabajar con las guías de negación y cuantificación y además las de inversibilidad (no vimos cómo hacer cuentas hasta ahora, vale saltear los ejercicios que lo requieran).
-- Ejercicios sugeridos:
-  - TEG 2 (guía 4)
-  - Gran compañero de viaje (guía 4)
-  - Asesinato (guía 7)
+- De Mumuki pueden trabajar con las guías de negación y cuantificación y además las de inversibilidad (no vimos cómo hacer cuentas hasta ahora, vale saltear los ejercicios que lo requieran).
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-11.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-13.md)
