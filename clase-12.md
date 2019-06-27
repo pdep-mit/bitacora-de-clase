@@ -8,6 +8,8 @@ De esa forma cubrimos todo lo relacionado con existencia (no hace falta usar nin
 
 También vimos que ambos predicados tienen [problemas de inversibilidad](http://wiki.uqbar.org/wiki/articles/paradigma-logico---casos-de-no-inversibilidad.html), con lo cual hay que tomar ciertos recaudos al usarlos para que nuestros predicados sean [inversibles](http://wiki.uqbar.org/wiki/articles/paradigma-logico---inversibilidad.html). En general alcanza con que los parámetros de nuestros predicados lleguen unificados al consultar not/1 y forall/2, lo cual se logra consultando un predicado inversible previamente en nuestra regla que se encargue de unificar esas variables.
 
+Además repasamos algunas nociones de discreta sobre las propiedades de las relaciones binarias para analizar si los predicados que desarrollamos cumplían o no con ser simétricos, reflexivos y/o transitivos, lo cual es algo que está asociado a la naturaleza del problema a resolver y no está de más pensar los problemas en esos términos.
+
 Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase2.pl)
 
 ## Para profundizar y ejercitar
