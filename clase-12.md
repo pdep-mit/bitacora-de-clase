@@ -4,9 +4,9 @@ En esta clase introdujimos los predicados de [orden superior](http://wiki.uqbar.
  - [not/1](http://wiki.uqbar.org/wiki/articles/paradigma-logico---negacion.html) para la negación
  - [forall/2](http://wiki.uqbar.org/wiki/articles/paradigma-logico---el-forall.html) para el cuantificador universal (para todo)
 
-De esa forma cubrimos todo lo relacionado con existencia, no existencia y para todo, que es lo que nos faltaba para poder trabajar con [lógica de primer orden](http://wiki.uqbar.org/wiki/articles/paradigma-logico---existe-vs-para-todo.html).
+De esa forma cubrimos todo lo relacionado con existencia (no hace falta usar ningún predicado especial para esto), no existencia y para todo, que es lo que nos faltaba para poder trabajar con [lógica de primer orden](http://wiki.uqbar.org/wiki/articles/paradigma-logico---existe-vs-para-todo.html).
 
-Recuerden que ambos predicados tienen problemas de [inversibilidad](http://wiki.uqbar.org/wiki/articles/paradigma-logico---inversibilidad.html), con lo cual hay que tomar ciertos recaudos al usarlos para que nuestros predicados sean inversibles. En general alcanza con que los parámetros de nuestros predicados lleguen unificados al consultar not/1 y forall/2, lo cual se logra consultando un predicado inversible más arriba que ligue esas variables.
+También vimos que ambos predicados tienen [problemas de inversibilidad](http://wiki.uqbar.org/wiki/articles/paradigma-logico---casos-de-no-inversibilidad.html), con lo cual hay que tomar ciertos recaudos al usarlos para que nuestros predicados sean [inversibles](http://wiki.uqbar.org/wiki/articles/paradigma-logico---inversibilidad.html). En general alcanza con que los parámetros de nuestros predicados lleguen unificados al consultar not/1 y forall/2, lo cual se logra consultando un predicado inversible previamente en nuestra regla que se encargue de unificar esas variables.
 
 Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase2.pl)
 
