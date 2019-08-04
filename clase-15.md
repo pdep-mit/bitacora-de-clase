@@ -16,10 +16,12 @@ Acá pueden encontrar el [código](https://github.com/pdep-mit/ejemplos-de-clase
 ## Para profundizar y ejercitar
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
-  - En el Módulo 3 sobre individuos compuestos se explica listas más en profundidad de lo que llegamos a ver, incluyendo otros predicados para trabajar con listas sencillos pero menos cotidianos.
-  - En el Módulo 4 sobre predicados de orden superior se explica el predicado findall/3.
-  - En el Módulo 5 sobre recursividad se termina de explicar este tema.
-  - Y si con la PPT de "Donny, no!" se quedaron con dudas, pueden ver ejemplos concretos en el Módulo 6 en la sección de Code Smells.
+  - En el **Módulo 3** sobre individuos compuestos **se explica listas** más en profundidad de lo que llegamos a ver, incluyendo otros predicados para trabajar con listas sencillos pero menos cotidianos.
+  - En el **Módulo 4** sobre predicados de orden superior se explica el predicado **findall/3**.
+  - En el **Módulo 5** sobre **recursividad** se termina de explicar este tema.
+  - En el **Módulo 6**, en la sección de **Code Smells**, pueden encontrar una versión extendida con ejemplos concretos de los **Donny, no!**.
 - De [Mumuki](https://mumuki.io/chapters/8-programacion-logica) pueden trabajar con todas las guías, ya que terminamos de ver todo el contenido teórico que teníamos planeado para este paradigma.
+
+Finalmente, pueden encontrar contenido adicional muy interesante en el **Módulo 7** de la sección de apuntes. Esto no se evalúa, pero es muy recomendable para entender el poder que gana este paradigma al incorporar las listas como herramienta de modelado, cómo hacer predicados de orden superior, y algún que otro tema BONUS que no cubrimos en clase.
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-14.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16.md)
