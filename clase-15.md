@@ -9,7 +9,7 @@ Vimos cómo se puede hacer para trabajar con listas [recursivamente](http://wiki
 - nth0/3 y nth1/3
 - y findall/3 que es un predicado de [orden superior](http://wiki.uqbar.org/wiki/articles/orden-superior.html).
 
-Importante! No olvides repasar los [Los Donny, no!](https://docs.google.com/presentation/d/e/2PACX-1vSKFGF0920302VpDPVrnRKez_O_wjgDg4_cssbsH3G4RBt7sTKEfl5KnUVchASdH4tnW9Hx8pGHUpdu/embed?start=false&loop=false&delayms=60000) para el uso responsable de findall.
+Importante! No olviden que la mayoría de los problemas ya los podíamos resolver sin listas, de forma declarativa. Para no caer en la tentación, les dejamos [Los Donny, no!](https://docs.google.com/presentation/d/e/2PACX-1vSKFGF0920302VpDPVrnRKez_O_wjgDg4_cssbsH3G4RBt7sTKEfl5KnUVchASdH4tnW9Hx8pGHUpdu/embed?start=false&loop=false&delayms=60000) para el uso responsable de findall.
 
 Acá pueden encontrar el [código](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase5.pl) de esta clase.
 
@@ -18,7 +18,7 @@ Acá pueden encontrar el [código](https://github.com/pdep-mit/ejemplos-de-clase
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
   - En el **Módulo 3** sobre individuos compuestos **se explica listas** más en profundidad de lo que llegamos a ver, incluyendo otros predicados para trabajar con listas sencillos pero menos cotidianos.
   - En el **Módulo 4** sobre predicados de orden superior se explica el predicado **findall/3**.
-  - En el **Módulo 5** sobre **recursividad** se termina de explicar este tema.
+  - En el **Módulo 5** sobre **recursividad** se termina de explicar este tema para cuando las otras herramientas se quedan cortas.
   - En el **Módulo 6**, en la sección de **Code Smells**, pueden encontrar una versión extendida con ejemplos concretos de los **Donny, no!**.
 - De [Mumuki](https://mumuki.io/chapters/8-programacion-logica) pueden trabajar con todas las guías, ya que terminamos de ver todo el contenido teórico que teníamos planeado para este paradigma.
 
