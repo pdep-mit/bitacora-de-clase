@@ -19,6 +19,6 @@ Finalmente, [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/mas
 ## Para profundizar y ejercitar
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): los primeros 3 módulos cubren los temas que vimos.
-- De Mumuki pueden trabajar con las primeras 5 guías.
+- De Mumuki pueden trabajar con las primeras 3 guías.
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-18.md)
