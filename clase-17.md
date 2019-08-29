@@ -16,9 +16,8 @@ Además pueden encontrar ejercicios resueltos en la sección Ejemplos, y en la s
 
 Finalmente, [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/master/ejemplos-de-clase/src/clase01) pueden encontrar el código Wollok de esta primer clase. Vamos a ir subiendo el código a un mismo [proyecto Wollok](https://github.com/pdep-mit/ejemplos-de-clase-wollok), así que si lo importan en el entorno, luego alcanzará con hacer pull para tener el código de las clases siguientes a medida que lo subimos.
 
-## Para profundizar y ejercitar
+## Para profundizar
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): los primeros 3 módulos cubren los temas que vimos.
-- De Mumuki pueden trabajar con las primeras 3 guías.
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-18.md)
