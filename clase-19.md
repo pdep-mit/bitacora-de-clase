@@ -1,6 +1,8 @@
 # Clases
 
-En esta clase incorporamos una nueva herramienta de modelado: las [clases](http://wiki.uqbar.org/wiki/articles/clases.html). También mencionamos una característica de los objetos que hasta ahora no habíamos presentado: los objetos se diferencian entre ellos no sólo por su estado, sino que tienen [identidad](http://wiki.uqbar.org/wiki/articles/igual-o-identico-----vs---.html).
+En esta clase incorporamos una nueva herramienta de modelado: las [clases](http://wiki.uqbar.org/wiki/articles/clases.html), y vimos [cómo podemos hacer para instanciar objetos](http://wiki.uqbar.org/wiki/articles/herramientas-de-instanciacion.html) a partir de una misma clase.
+
+También mencionamos una característica de los objetos que hasta ahora no habíamos presentado: los objetos se diferencian entre ellos no sólo por su estado, sino que tienen [identidad](http://wiki.uqbar.org/wiki/articles/igual-o-identico-----vs---.html).
 
 Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/master/ejemplos-de-clase/src/clase03).
 
