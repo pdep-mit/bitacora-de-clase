@@ -3,7 +3,10 @@
 En esta clase vimos dos tipos de objetos muy útiles:
 - [Bloques](http://wiki.uqbar.org/wiki/articles/bloques.html)
 - [Colecciones](http://wiki.uqbar.org/wiki/articles/intro-a-colecciones.html)
-
+  - Vimos que en Wollok existen dos tipos de colecciones: [las listas y los sets](http://wiki.uqbar.org/wiki/articles/sabores-de-colecciones.html). Es común que cada lenguaje defina distintos tipos de colecciones para poder elegir cuál usar en base a la necesidad para cada problema.
+  - También vimos algunos de los [mensajes que entienden las colecciones](http://wiki.uqbar.org/wiki/articles/mensajes-de-colecciones.html) de Wollok. Algunos eran muy similares a los que ya conocíamos de Haskell, otros directamente no estaban en Haskell porque están pensados para trabajar con efecto colateral.
+  
+Además empezamos a hablar un poquito sobre la idea de error (o excepción). Vamos a retomar ese tema más adelante, pero en principio queremos que quede claro que hay veces que el **comportamiento esperado** como resultado de un envío de mensaje es **que falle**, interrumpiendo la ejecución de ese mensaje y de aquellos que se enviaron hasta llegar a ese punto de la ejecución. Está bien que un método lance una excepción cuando no puede cumplir con lo que prometía que iba a hacer (por ejemplo, obtener el primer elemento de una lista que no tiene ningún elemento). Con eso nos alcanza de momento, más adelante incorporaremos más herramientas, pero sobre todo vamos a **formar criterio** sobre cómo usarlas.
 
 ## Para profundizar y ejercitar
 
