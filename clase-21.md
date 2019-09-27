@@ -1,7 +1,7 @@
 # Ejercicio: Clases y colecciones
 
 En esta clase bajamos a tierra todo lo que vimos hasta este momento con un ejercicio más complejo,
- haciendo foco en las decisiones de modelado y responsabilidades. También introdujimos una herramienta para comunicar nuestro diseño que es el diagrama de clases (o diagrama estático, como le decimos en Wollok para no excluir a los objetos bien conocidos). Vamos a terminar de explicar esto la clase que viene cuando incorporemos el concepto de herencia.
+ haciendo foco en las decisiones de modelado y responsabilidades. También introdujimos una herramienta para comunicar nuestro diseño que es el diagrama de clases (o diagrama estático, como le decimos en Wollok para no excluir a los objetos autodefinidos). Vamos a terminar de explicar esto la clase que viene cuando incorporemos el concepto de herencia.
 
 Pueden encontrar el código de la clase y el diagrama hecho en clase  [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/master/ejemplos-de-clase/src/clase5).
 
