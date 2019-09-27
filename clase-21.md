@@ -9,4 +9,4 @@ Pueden encontrar el código de la clase y el diagrama hecho en clase  [acá](htt
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Los anexos: Guías para comunicar un diseño y Diagrama estático de Wollok.
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-20.md) - [Clase siguiente >(https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-22.md)
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-20.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-22.md)
