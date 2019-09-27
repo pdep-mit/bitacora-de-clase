@@ -13,6 +13,6 @@ El código de la clase (incluyendo también algunas cosas que quedaron a medio i
 ## Para profundizar y ejercitar
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): el módulo 4 explica qué son y cómo se usan los bloques y las colecciones (sets y listas) en Wollok.
-- De [Mumuki](https://wollok.mumuki.io/chapters/31-programacion-con-objetos): las lecciones 6, 7 y 8 cubren estos temas. Además con esto se desbloquea el resto de la lección de clases e instancias :)
+- De Mumuki: las lecciones 6, 7 y 8 cubren estos temas. Además con esto se desbloquea el resto de la lección de clases e instancias :)
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-19.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-21.md)
