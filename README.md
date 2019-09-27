@@ -31,3 +31,4 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
   - [Herencia vs. Composición](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-24.md)
   - [Ejercicio integrador 1: Los Glaciares](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-25.md)
   - [Ejercicio integrador 2: Wollolok!](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-26.md)
+- [Cierre de la materia](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-27.md)
