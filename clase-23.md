@@ -4,10 +4,6 @@ En esta clase estuvimos hablando sobre [excepciones](http://wiki.uqbar.org/wiki/
 
 El manejo de errores no es algo propio del paradigma de objetos, sin embargo forma parte de las herramientas básicas que ofrecen los lenguajes que se basan en él.
 
-En funcional (en particular en Haskell) vimos que existen funciones que lanzan errores (por ejemplo, `head []` estalla porque no tiene ninguna respuesta razonable), pero como cortar el flujo de ejecución va bastante en contra de la ausencia de efecto, a su vez propone otra alternativa para aquellos problemas que consideremos recuperables que se atienen a la idea de función. Esto es algo que excede el alcance de esta materia, los curiosos pueden investigar qué es una Mónada o mejor aún, cursar [Técnicas Avanzadas de Programación](http://tadp-utn-frba.github.io/contenidos/).
-
-Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/master/ejemplos-de-clase/src/clase7).
-
 ## Para profundizar
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
