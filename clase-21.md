@@ -7,6 +7,6 @@ Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemp
 
 ## Para profundizar
 
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Los anexos: Guías para comunicar un diseño y Diagrama estático de Wollok.
+- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): el **Anexo A: Guías para comunicar un diseño** explica bastante más en profundidad lo que hablamos sobre diagrama estático. En esta clase vimos la relación **conoce** e **implementa** nada más, pero la relación **usa** también podríamos usarla con lo que vimos hasta ahora.
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-20.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-22.md)
