@@ -8,6 +8,6 @@ Si quieren encontrar la versión jugable, pueden clonarse este [repo](https://gi
 
 ## Para profundizar
 
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): ver el Módulo 17.
+- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): ver el Módulo 16.
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-22.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-24.md)
