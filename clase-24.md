@@ -9,5 +9,6 @@ El manejo de errores no es algo propio del paradigma de objetos, sin embargo for
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
   - El Módulo 10 explica la necesidad, buenos y malos usos.
   - El Módulo 11 explica, entre muchas otras cosas que pueden interesarles, cómo testear casos infelices.
+- En Mumuki van a encontrar la lección 9 sobre Excepciones, que no aborda el tema de try/catch, se limita al lanzado de excepciones que es lo más frecuente para pdep.
   
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-23.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-25.md)
