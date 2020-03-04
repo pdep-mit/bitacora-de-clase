@@ -1,23 +1,28 @@
-# Tipos de datos compuestos (Parte 1): Tuplas y datas, pattern matching e inmutabilidad
+# Laboratorio - Trabajo con versionado de código
 
-## Temas de la clase
+- [Apunte de la clase](https://drive.google.com/file/d/1s-ACSAjGru4FdsjVsDRly5dOlfm_Yzmg/view)
+- [Git - apunte introductorio](https://docs.google.com/document/d/166ksg4rSAIrYWStR5yHrUQjFp1OY3DvSoLMcA8CYc34/edit#heading=h.7urotmir6l2i)
+- [Guía de referencia de GIT](https://docs.google.com/document/d/147cqUY86wWVoJ86Ce0NoX1R78CwoCOGZtF7RugUvzFg/edit#heading=h.pfzudah6sze2)
 
-En esta clase vimos los siguientes temas:
-- [Tipos compuestos: Tuplas y datas](http://wiki.uqbar.org/wiki/articles/tipos-de-haskell.html)
-- [Más sobre datas](http://wiki.uqbar.org/wiki/articles/data--definiendo-nuestros-tipos-en-haskell.html)
-- [Pattern Matching](http://wiki.uqbar.org/wiki/articles/pattern-matching-en-haskell.html)
+## Repo de la clase de hoy
+
+Para arrancar tienen que aceptar el assignment: [...PROXIMAMENTE...](#).
+
+Luego de entrar al classroom de github para aceptar el assignment, van a poder encontrar su repositorio en: https://github.com/pdep-mit
+
+## Troubleshooting
+
+En las máquinas del laboratorio a veces quedan almacenadas credenciales ajenas. Para evitar problemas clonando y pusheando:
+1. Abrir el administrador de credenciales de windows.
+2. Buscar credenciales guardadas que digan git o GitHub.
+3. En caso de existir, borrarlas.
+
+No está de más revisar, antes de irse, que no hayan dejado credenciales propias guardadas luego de trabajar.
+
+# Guardas y Recursividad
+
+En esta clase además introdujimos los siguientes temas:
 - [Funciones por Partes (Guardas)](http://wiki.uqbar.org/wiki/articles/funciones-por-partes.html)
-- [Inmutabilidad](http://wiki.uqbar.org/wiki/articles/inmutabilidad.html)
-- [Typeclasses](http://wiki.uqbar.org/wiki/articles/typeclasses.html)
-
-Acá pueden encontrar el [código de la clase](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/clase2.hs).
-
-## Para profundizar y ejercitar
-
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 1, 3 y 7 de funcional (teniendo en cuenta que todavía no vimos listas).
-- De Mumuki:
-  - Alternativas: Guardas y Patrones
-  - Modelado (hasta ejercicio 13)
-  - Práctica de Inferencia de Tipos (excepto ejercicios 6 y 7, deberían poder hacer todos con lo que vimos hasta ahora)
+- [Recursividad](http://wiki.uqbar.org/wiki/articles/recursividad-en-haskell.html)
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-02.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-04.md)

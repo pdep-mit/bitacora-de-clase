@@ -2,7 +2,7 @@
 
 ## Temas de la clase
 
-En esta clase introdujimos la idea de [recursividad](http://wiki.uqbar.org/wiki/articles/recursividad-en-haskell.html) como mecanismo alternativo a la iteración usando estructuras de control como el for y el while que conocen de algoritmos.
+En esta clase revisitamos la idea de [recursividad](http://wiki.uqbar.org/wiki/articles/recursividad-en-haskell.html) como mecanismo alternativo a la iteración usando estructuras de control como el for y el while que conocen de algoritmos.
 
 También vimos uno de los conceptos más fuertes de la materia, sobre el cual vamos a volver una y otra vez a lo largo del año, que es [Orden Superior](http://wiki.uqbar.org/wiki/articles/orden-superior.html). En particular vimos esta idea para trabajar con [listas](http://wiki.uqbar.org/wiki/articles/tipos-de-haskell.html), porque si bien se puede hacer todo con pattern matching y recursividad, podemos llegar a soluciones mucho mejores evitando esta mecánica.
 
