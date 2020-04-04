@@ -1,4 +1,4 @@
-# Laboratorio - Trabajo con versionado de código
+# CLASE CANCELADA!! Laboratorio - Trabajo con versionado de código
 
 - [Apunte de la clase](https://drive.google.com/file/d/1s-ACSAjGru4FdsjVsDRly5dOlfm_Yzmg/view)
 - [Git - apunte introductorio](https://docs.google.com/document/d/166ksg4rSAIrYWStR5yHrUQjFp1OY3DvSoLMcA8CYc34/edit#heading=h.7urotmir6l2i)
@@ -18,11 +18,5 @@ En las máquinas del laboratorio a veces quedan almacenadas credenciales ajenas.
 3. En caso de existir, borrarlas.
 
 No está de más revisar, antes de irse, que no hayan dejado credenciales propias guardadas luego de trabajar.
-
-# Guardas y Recursividad
-
-En esta clase además introdujimos los siguientes temas:
-- [Funciones por Partes (Guardas)](http://wiki.uqbar.org/wiki/articles/funciones-por-partes.html)
-- [Recursividad](http://wiki.uqbar.org/wiki/articles/recursividad-en-haskell.html)
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-02.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-04.md)
