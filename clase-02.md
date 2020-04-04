@@ -12,9 +12,11 @@ y vimos los siguientes temas:
   - Su principal operación: la [aplicación](http://wiki.uqbar.org/wiki/articles/aplicacion.html).
 - Introducción a [tipado de Haskell](http://wiki.uqbar.org/wiki/articles/tipos-de-haskell.html):
   - Tipos de datos simples (Int, Float, Bool, ...).
-  - Variables de tipo, para funciones más genéricas. Por ejemplo, el caso de libro es la función `id :: a -> a`, donde `a` puede ser cualquier tipo concreto (por ejemplo, Int).
-  - Entender de qué tipo son las funciones, en base al tipo de su dominio y de su imagen, y un poquito de [inferencia](http://wiki.uqbar.org/wiki/articles/inferencia-de-tipos.html).
-  - Más adelante vamos a formalizar más este tema y agregar más tipos de datos.
+  - Entender de qué tipo son las funciones, en base al tipo de su dominio y de su imagen.
+  - Más adelante vamos a ampliar mucho más este tema y agregar más tipos de datos.
+- [Pattern Matching con tipos básicos](http://wiki.uqbar.org/wiki/articles/pattern-matching-en-haskell.html)
+- [Funciones por Partes o Guardas](http://wiki.uqbar.org/wiki/articles/funciones-por-partes.html)
+- [Intro a Recursividad (sin listas)](http://wiki.uqbar.org/wiki/articles/recursividad-en-haskell.html)
   
 Acá pueden encontrar el [código de la clase](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/clase1.hs).
 
@@ -22,7 +24,8 @@ Acá pueden encontrar el [código de la clase](https://github.com/pdep-mit/ejemp
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulo 1 de funcional
 - De Mumuki (Capítulo de Programación Funcional), las guías:
-  - Valores y Funciones (Ejercicios 1 al 9 inclusive)
+  - Valores y Funciones (Ejercicios 1 al 9 inclusive).
   - Práctica Valores y Funciones (todavía no vimos composición, si les pide usar ese concepto, vale saltear el ejercicio y hacerlo luego).
+  - Alternativas: Guardas y Patrones (hasta ejercicio 9 inclusive).
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-01.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-03.md)
