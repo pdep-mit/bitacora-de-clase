@@ -13,7 +13,7 @@ Acá pueden encontrar el [código de la clase](https://github.com/pdep-mit/ejemp
 
 ## Para profundizar y ejercitar
 
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 1, 3 y 7 de funcional (teniendo en cuenta que todavía no vimos listas).
+- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 3 y 7 de funcional (teniendo en cuenta que todavía no vimos listas).
 - De Mumuki:
   - Alternativas: Guardas y Patrones
   - Modelado (hasta ejercicio 13)
