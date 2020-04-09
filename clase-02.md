@@ -18,7 +18,7 @@ y vimos los siguientes temas:
 - [Funciones por Partes o Guardas](http://wiki.uqbar.org/wiki/articles/funciones-por-partes.html)
 - [Intro a Recursividad (sin listas)](http://wiki.uqbar.org/wiki/articles/recursividad-en-haskell.html)
   
-Acá pueden encontrar el [código de la clase](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/clase1.hs).
+Acá pueden encontrar el [código de la clase](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/src/Clase1.hs).
 
 ## Para profundizar y ejercitar
 
