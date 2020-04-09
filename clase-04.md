@@ -9,7 +9,7 @@ En esta clase vimos los siguientes temas:
 - [Inmutabilidad](http://wiki.uqbar.org/wiki/articles/inmutabilidad.html)
 - [Typeclasses](http://wiki.uqbar.org/wiki/articles/typeclasses.html)
 
-Acá pueden encontrar el [código de la clase](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/clase2.hs).
+Acá pueden encontrar el [código de la clase](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/src/Clase2.hs).
 
 ## Para profundizar y ejercitar
 
