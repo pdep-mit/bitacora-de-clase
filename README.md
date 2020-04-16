@@ -5,7 +5,7 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
 - [Introducción a la materia](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-01.md)
 - Paradigma Funcional
   - [Introducción a Funcional](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-02.md)
-  - [Laboratorio - Repaso + Guardas y Recursividad](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-03.md)
+  - [Laboratorio - Cancelado en modalidad virtual](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-03.md)
   - [Tuplas y Datas, Pattern Matching e Inmutabilidad](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-04.md)
   - [Composición y Aplicación Parcial](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-05.md)
   - [Listas, Recursividad vs. Orden Superior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-06.md)
