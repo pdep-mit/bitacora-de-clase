@@ -4,10 +4,10 @@
 
 En esta clase vimos los siguientes temas:
 - [Composición de funciones](http://wiki.uqbar.org/wiki/articles/composicion.html)
-- [Aplicación parcial](http://wiki.uqbar.org/wiki/articles/aplicacion-parcial.html) y [Currificación](http://wiki.uqbar.org/wiki/articles/currificacion.html)
-- Y de yapa, [Notación Point-free](http://wiki.uqbar.org/wiki/articles/notacion-point-free.html) y [Expresiones lambda](http://wiki.uqbar.org/wiki/articles/expresiones-lambda.html)
+- [Aplicación parcial](http://wiki.uqbar.org/wiki/articles/aplicacion-parcial.html)
+- Y de yapa, [Notación Point-free](http://wiki.uqbar.org/wiki/articles/notacion-point-free.html).
 
-El código de la clase lo pueden encontrar [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/clase4.hs).
+El código de la clase lo pueden encontrar [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/src/Clase3.hs).
 
 ## Para profundizar y ejercitar
 
