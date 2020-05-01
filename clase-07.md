@@ -1,4 +1,4 @@
-# Laboratorio: Orden Superior, Composición y Aplicación Parcial
+# CLASE CANCELADA! Laboratorio: Orden Superior, Composición y Aplicación Parcial
 
 El objetivo de esta clase es hacer una práctica más grande, haciendo especial foco en:
 - [Composición](http://wiki.uqbar.org/wiki/articles/composicion.html)
