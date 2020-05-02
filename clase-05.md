@@ -14,7 +14,7 @@ El código de la clase lo pueden encontrar [acá](https://github.com/pdep-mit/ej
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulo 2 de funcional.
 - De Mumuki:
   - Ya pueden terminar Valores y Funciones y su práctica asociada.
-  - Introducción tipos de dato, hasta ejercicio 9 inclusive.
+  - Introducción tipos de dato.
   - Aplicación Parcial y Orden Superior (Ejercicios 1 al 4 inclusive).
   - Práctica Aplicación Parcial y Orden Superior (hasta ejercicio 6).
 
