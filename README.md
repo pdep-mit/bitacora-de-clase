@@ -11,8 +11,8 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
   - [Ejercicio](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-06.md)
   - [Orden Superior y Listas](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-07.md)
   - [Modelado con funciones](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-08.md)
-  - [Ejercicio integrador](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-09.md)
-  - [Estrategias de Evaluación, Listas infinitas](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-10.md)
+  - [Estrategias de Evaluación, Listas infinitas](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-09.md)
+  - [Ejercicio integrador](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-10.md)
 - Paradigma Lógico
   - [Introducción a Lógico](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-11.md)
   - [Lógica de Primer Orden](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-12.md)
