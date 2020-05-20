@@ -5,7 +5,7 @@ En esta clase estuvimos viendo los siguientes temas:
   - Evaluación Ansiosa vs. Evaluación Perezosa
   - Listas infinitas
 
-Pueden encontrar el código de la clase [acá](#).
+Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/src/Clase6.hs).
 
 ## Para profundizar y ejercitar
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 4 y 7 de funcional.
