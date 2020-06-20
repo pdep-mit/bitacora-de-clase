@@ -1,4 +1,4 @@
-# Listas
+# Listas y Agregación
 
 En esta clase cerramos los temas del paradigma lógico viendo cómo se trabaja con otro tipo de [individuo compuesto](http://wiki.uqbar.org/wiki/articles/paradigma-logico---individuos-compuestos.html) que son las [listas](http://wiki.uqbar.org/wiki/articles/paradigma-logico---listas.html).
 
