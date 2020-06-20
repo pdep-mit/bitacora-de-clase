@@ -1,20 +1,18 @@
-# Lógica de Primer Orden
+# Inversibilidad y Negación
 
-En esta clase introdujimos los predicados de [orden superior](http://wiki.uqbar.org/wiki/articles/orden-superior.html):
- - [not/1](http://wiki.uqbar.org/wiki/articles/paradigma-logico---negacion.html) para la negación
- - [forall/2](http://wiki.uqbar.org/wiki/articles/paradigma-logico---el-forall.html) para el cuantificador universal (para todo)
+En esta clase hicimos foco en uno de los conceptos fundamentales del paradigma lógico: [**Inversibilidad**](http://wiki.uqbar.org/wiki/articles/paradigma-logico---inversibilidad.html), e introdujimos el primer predicado de [orden superior](http://wiki.uqbar.org/wiki/articles/orden-superior.html) que estaremos usando en Prolog: [not/1](http://wiki.uqbar.org/wiki/articles/paradigma-logico---negacion.html) para la negación.
 
-De esa forma cubrimos todo lo relacionado con existencia (no hace falta usar ningún predicado especial para esto), no existencia y para todo, que es lo que nos faltaba para poder trabajar con [lógica de primer orden](http://wiki.uqbar.org/wiki/articles/paradigma-logico---existe-vs-para-todo.html).
+Además aprovechamos el ejercicio para introducir [Aritmética en Prolog](http://wiki.uqbar.org/wiki/articles/aritmetica-en-prolog.html) con el predicado `is/2`, porque tener relaciones en vez de funciones nos obliga a repensar algunas cosas que damos por obvias. En este ratito que le dedicamos a analizar las diferencias entre funciones y predicados recordamos que los predicados no devuelven cosas, tienen valor de verdad. Tenemos que tener eso en cuenta para entender cuál es la aridad que tiene sentido que tengan los predicados que hacemos, y también para no usarlos pretendiendo que se comporten como funciones.
 
-También vimos que ambos predicados tienen [problemas de inversibilidad](http://wiki.uqbar.org/wiki/articles/paradigma-logico---casos-de-no-inversibilidad.html), con lo cual hay que tomar ciertos recaudos al usarlos para que nuestros predicados sean [inversibles](http://wiki.uqbar.org/wiki/articles/paradigma-logico---inversibilidad.html). En general alcanza con que los parámetros de nuestros predicados lleguen unificados al consultar not/1 y forall/2, lo cual se logra consultando un predicado inversible previamente en nuestra regla que se encargue de unificar esas variables.
-
-Además repasamos algunas nociones de discreta sobre las propiedades de las relaciones binarias para analizar si los predicados que desarrollamos cumplían o no con ser simétricos, reflexivos y/o transitivos, lo cual es algo que está asociado a la naturaleza del problema a resolver y no está de más pensar los problemas en esos términos.
+También vimos que ambos predicados tienen [problemas de inversibilidad](http://wiki.uqbar.org/wiki/articles/paradigma-logico---casos-de-no-inversibilidad.html), con lo cual hay que tomar ciertos recaudos al usarlos para que nuestros predicados sean inversibles.
 
 Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase2.pl)
 
 ## Para profundizar y ejercitar
 
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulo 4 de Lógico hasta sección 4 inclusive.
-- De Mumuki pueden trabajar con las guías de negación y cuantificación y además las de inversibilidad (no vimos cómo hacer cuentas hasta ahora, vale saltear los ejercicios que lo requieran).
+- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
+    - Módulo 3 de Lógico - **Individuos Simples** (después se abordan temas que no vimos todavía)
+    - Módulo 4 de Lógico - **Predicado not/2** (después se abordan temas que no vimos todavía)
+- De Mumuki pueden trabajar con las guías de aritmética, negación e inversibilidad, a sabiendas de que algunos ejercicios abarcan los temas de la próxima clase.
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-11.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-13.md)
