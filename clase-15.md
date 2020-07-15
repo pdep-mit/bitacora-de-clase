@@ -4,10 +4,11 @@ En esta clase cerramos los temas del paradigma lógico viendo cómo se trabaja c
 
 Vimos cómo se puede hacer para trabajar con listas [recursivamente](http://wiki.uqbar.org/wiki/articles/recursividad-en-logico.html) usando pattern matching, y también los principales predicados que ya vienen para trabajar con listas más cómodamente:
 - length/2
-- sumlist/2
+- sum_list/2
 - member/2
 - nth0/3 y nth1/3
-- y findall/3 que es un predicado de [orden superior](http://wiki.uqbar.org/wiki/articles/orden-superior.html).
+
+... y findall/3 que es un predicado de [orden superior](http://wiki.uqbar.org/wiki/articles/orden-superior.html).
 
 Importante! No olviden que la mayoría de los problemas ya los podíamos resolver sin listas, de forma declarativa. Para no caer en la tentación, les dejamos [Los Donny, no!](https://docs.google.com/presentation/d/e/2PACX-1vSKFGF0920302VpDPVrnRKez_O_wjgDg4_cssbsH3G4RBt7sTKEfl5KnUVchASdH4tnW9Hx8pGHUpdu/embed?start=false&loop=false&delayms=60000) para el uso responsable de findall.
 
