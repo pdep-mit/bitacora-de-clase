@@ -14,7 +14,7 @@ Para este paradigma vamos a estar trabajando con [Wollok](http://www.wollok.org/
 
 Además pueden encontrar ejercicios resueltos en la sección Ejemplos, y en la sección Tour les van a dar un paseo por las herramientas para que descubran cómo sacarle el jugo al IDE.
 
-Finalmente, [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/master/ejemplos-de-clase/src/clase01) pueden encontrar el código Wollok de esta primer clase. Vamos a ir subiendo el código a un mismo [proyecto Wollok](https://github.com/pdep-mit/ejemplos-de-clase-wollok), así que si lo importan en el entorno, luego alcanzará con hacer pull para tener el código de las clases siguientes a medida que lo subimos.
+Finalmente, [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/master/src/clase01) pueden encontrar el código Wollok de esta primer clase. Vamos a ir subiendo el código a un mismo [proyecto Wollok](https://github.com/pdep-mit/ejemplos-de-clase-wollok), así que si lo importan en el entorno, luego alcanzará con hacer pull para tener el código de las clases siguientes a medida que lo subimos.
 
 ## Para profundizar y ejercitar
 
