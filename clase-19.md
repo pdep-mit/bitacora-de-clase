@@ -9,7 +9,7 @@ Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemp
 ## Para profundizar y ejercitar
 
 Tanto Mumuki como los apuntes postergan un poco más la introducción del concepto de clase, pero igualmente pueden usar el material disponible.
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): los módulos 7, 8, 9 y 14 explican todo lo que vimos en la clase de ayer.
+- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): los módulos 8 y 9 introducen la idea de clase y construcción de objetos.
 - De Mumuki, pueden trabajar con los primeros 8 ejercicios de la guía 10 (Clases e instancias).
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-18.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-20.md)
