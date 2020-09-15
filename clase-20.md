@@ -1,8 +1,6 @@
-# Bloques y Colecciones
+# Colecciones
 
-En esta clase vimos dos tipos de objetos muy útiles:
-- [Bloques](http://wiki.uqbar.org/wiki/articles/bloques.html)
-- [Colecciones](http://wiki.uqbar.org/wiki/articles/intro-a-colecciones.html)
+En esta clase vimos cómo trabajar con [Colecciones](http://wiki.uqbar.org/wiki/articles/intro-a-colecciones.html):
   - Vimos que en Wollok existen dos tipos de colecciones: [las listas y los sets](http://wiki.uqbar.org/wiki/articles/sabores-de-colecciones.html). Es común que cada lenguaje defina distintos tipos de colecciones para poder elegir cuál usar en base a la necesidad para cada problema.
   - También vimos algunos de los [mensajes que entienden las colecciones](http://wiki.uqbar.org/wiki/articles/mensajes-de-colecciones.html) de Wollok. Algunos eran muy similares a los que ya conocíamos de Haskell, otros directamente no estaban en Haskell porque están pensados para trabajar con efecto colateral.
   
@@ -12,7 +10,7 @@ El código de la clase (incluyendo también algunas cosas que quedaron a medio i
 
 ## Para profundizar y ejercitar
 
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): el módulo 4 explica qué son y cómo se usan los bloques y las colecciones (sets y listas) en Wollok.
+- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): el módulo 4 explica cómo trabajar con los distintos tipos de colecciones.
 - De Mumuki: las lecciones 6, 7 y 8 cubren estos temas. Además con esto se desbloquea el resto de la lección de clases e instancias :)
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-19.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-21.md)
