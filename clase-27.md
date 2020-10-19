@@ -1,8 +1,6 @@
 # Cierre de la materia
 
-Arrancamos la clase viendo rápidamente una posible solución para el parcial de objetos a pedido del público, como para despejar dudas. Pueden encontrar esa solución [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/blob/master/ejemplos-de-clase/src/parcial/parcial.wlk).
-
-También estuvimos viendo algunos ejercicios de final como para refrescar un poco los conceptos de los paradigmas que vimos en la primer parte de la materia, y en caso de no promocionar la materia también tener una noción de qué esperar. Los finales son teórico prácticos con un foco fuerte en los conceptos, tanto particulares de cada paradigma como [transversales](http://wiki.uqbar.org/wiki/articles/paradigmas-de-programacion.html),
+Estuvimos viendo algunos ejercicios de final como para refrescar un poco los conceptos de los paradigmas que vimos en la primer parte de la materia, y en caso de no promocionar la materia también tener una noción de qué esperar. Los finales son teórico prácticos con un foco fuerte en los conceptos, tanto particulares de cada paradigma como [transversales](http://wiki.uqbar.org/wiki/articles/paradigmas-de-programacion.html),
 (que no son propios de un paradigma de programación sino que son conceptos de programación en general).
 
 Una linda forma de cerrar la materia es [volver al principio](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-01.md).
