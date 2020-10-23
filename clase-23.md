@@ -6,4 +6,4 @@ En esta clase estuvimos analizando las implicancias de usar herencia y qué alte
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): ver el Módulo 16, donde se explican las distintas decisiones de diseño tomadas para resolver un problema complejo donde se usan tanto herencia como composición en la solución final. Este apunte menciona algunos patrones de diseño que se terminaron aplicando, que es algo ya entra dentro del terreno de la materia Diseño de Sistemas. Una gran parte de los patrones de diseño en objetos se basan fuerte en herencia o composición, por eso es importante que se vayan de esta materia con una base sólida en estos temas.
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-22.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-24.md)
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-22-B.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-24.md)
