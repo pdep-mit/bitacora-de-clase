@@ -5,3 +5,27 @@ En esta clase hicimos la primer práctica grande, pensando mucho en las responsa
 Pueden encontrar el enunciado acá: [Yaaar!](https://docs.google.com/document/d/1W7d0K3ZsYQyUVb7eis-2IXO8gmaBwJwf892oDZkPpEg/edit#).
 
 El código al que llegamos al final de la clase está [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/master/src/clase06), junto con un diagrama general armado antes de la clase, con lo cual hay algunas diferencias leves respecto a la solución desarrollada pero no son relevantes.
+
+## Disclaimer: Igualdad de ítems
+
+Los items podían ser strings directamente en vez de usar una clase `Item` que no suma nada y agrega complejidad. Si tuvieran algún comportamiento extra ok, pero en este ejercicio no lo tenían.
+
+Habría que tener en cuenta que dos ítems distintos con el mismo nombre se consideren iguales, para eso hace falta [redefinir la igualdad](http://wiki.uqbar.org/wiki/articles/igual-o-identico-----vs---.html) (definida en Object), así logramos que esto de true:
+
+```wollok
+new Item(nombre = "mapa") == new Item(nombre = "mapa")
+```
+
+De esta forma se puede redefinir la igualdad para los ítems:
+
+```wollok
+ class Item {
+ 	const property nombre
+ 	
+ 	override method ==(otroItem) = nombre == otroItem.nombre()
+ }
+```
+
+## Para profundizar 
+
+- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes) ver el Módulo 14: Mutabilidad. Igualdad e identidad. 
