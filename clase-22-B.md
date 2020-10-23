@@ -29,3 +29,5 @@ De esta forma se puede redefinir la igualdad para los ítems:
 ## Para profundizar 
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes) ver el Módulo 14: Mutabilidad. Igualdad e identidad. 
+
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-22.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-23.md)
