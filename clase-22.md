@@ -9,4 +9,4 @@ Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/eje
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes) el Módulo 13: Herencia. Self, super. Redefinición.
 - De Mumuki, la lección 11 cubre estos temas.
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-21.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-23.md)
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-21.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-22-B.md)
