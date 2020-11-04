@@ -4,6 +4,8 @@ En esta clase estuvimos hablando más en detalle sobre [excepciones](http://wiki
 
 El manejo de errores no es algo propio del paradigma de objetos, sin embargo forma parte de las herramientas básicas que ofrecen los lenguajes que se basan en él.
 
+El código que mostramos en clase (sumado a lo que no mostramos en detalle del lado del juego, que incluye manejos interesantes pero más complejos) está [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/master/src/clase08).
+
 ## Para profundizar
 
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
