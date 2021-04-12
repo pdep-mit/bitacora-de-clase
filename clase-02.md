@@ -3,7 +3,7 @@
 ## Temas de la clase
 
 En esta clase arrancamos con el [paradigma funcional](http://wiki.uqbar.org/wiki/articles/paradigma-funcional.html),
-para el cual usaremos el lenguaje [Haskell](https://pdep.com.ar/software/software-haskell),
+para el cual usaremos el lenguaje [Haskell](https://www.pdep.com.ar/software/haskell),
 y vimos los siguientes temas:
 - [Concepto de función](http://wiki.uqbar.org/wiki/articles/concepto-de-funcion.html)
   - Cumplen con unicidad y existencia, esto nos permite asegurar que luego de aplicar una función obtendremos siempre un único valor.
