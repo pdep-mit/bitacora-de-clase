@@ -9,7 +9,7 @@ En esta clase vimos los siguientes temas:
 - [Inmutabilidad](http://wiki.uqbar.org/wiki/articles/inmutabilidad.html)
 - [Typeclasses](http://wiki.uqbar.org/wiki/articles/typeclasses.html)
 
-Acá pueden encontrar el [código de la clase](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/src/Clase2.hs) y la clase en vivo de la cursada 2020 [Clase 3 - Tipado, typeclasses + Datas y Tuplas](https://www.youtube.com/watch?v=6tEGnH_FYGY&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3&index=4).
+Acá pueden encontrar el [código de la clase](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/src/Clase2.hs) y la clase en vivo de la cursada 2020 [Clase 3 - Tipado, typeclasses + Datas y Tuplas](https://www.youtube.com/watch?v=6tEGnH_FYGY&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3).
 
 ## Para profundizar y ejercitar
 
