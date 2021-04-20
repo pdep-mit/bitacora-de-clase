@@ -18,7 +18,10 @@ y vimos los siguientes temas:
 - [Funciones por Partes o Guardas](http://wiki.uqbar.org/wiki/articles/funciones-por-partes.html)
 - [Intro a Recursividad (sin listas)](http://wiki.uqbar.org/wiki/articles/recursividad-en-haskell.html)
   
-Acá pueden encontrar el [código de la clase](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/src/Clase1.hs).
+Acá pueden encontrar el [código de la clase](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/src/Clase1.hs) y videos de clase donde explicamos estos temas:
+- [Clase 2.1 - Intro a Funcional con Haskell](https://www.youtube.com/watch?v=SOOytHnqkug&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3&index=1)
+- [Clase 2.2 - Intro a Funcional, primeros ejemplos](https://www.youtube.com/watch?v=wtODGk8J0Ng&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3&index=2)
+- [Clase 2.3 - Intro a Pattern Matching y Guardas](https://www.youtube.com/watch?v=TIo7c4hWZi0&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3&index=3)
 
 ## Para profundizar y ejercitar
 
