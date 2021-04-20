@@ -2,7 +2,9 @@
 
 ## Temas de la clase
 
-En esta clase vimos uno de los conceptos más fuertes de la materia, sobre el cual vamos a volver una y otra vez a lo largo del año, que es [Orden Superior](http://wiki.uqbar.org/wiki/articles/orden-superior.html). En particular hicimos foco en esta idea esta idea para trabajar con [listas](http://wiki.uqbar.org/wiki/articles/tipos-de-haskell.html), porque si bien se puede hacer todo con pattern matching y recursividad, podemos llegar a soluciones mucho mejores evitando esta mecánica.
+En esta clase vimos uno de los conceptos más fuertes de la materia, sobre el cual vamos a volver una y otra vez a lo largo del año, que es [Orden Superior](http://wiki.uqbar.org/wiki/articles/orden-superior.html). Videíto introductorio que armamos con Alf: [Creando Abstracciones: Introducción a Orden Superior](https://www.youtube.com/watch?v=mSJdiZ-0pXk&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3&index=6)
+
+En particular hicimos foco en esta idea esta idea para trabajar con [listas](http://wiki.uqbar.org/wiki/articles/tipos-de-haskell.html), porque si bien se puede hacer todo con pattern matching y recursividad, podemos llegar a soluciones mucho mejores evitando esta mecánica.
 
 Es importante entender que orden superior puede aplicarse en cualquier contexto, por ejemplo la composición no es más que una función de orden superior super genérica y sencilla!
 
@@ -28,7 +30,9 @@ Con esto no queremos decir que nunca vayan a usar recursividad:
 - La recursividad es una gran herramienta cuando el problema tiene naturaleza recursiva (como el ejemplo del factorial que vimos en la primer clase de funcional), en cuyo caso la solución a la que lleguemos recursivamente a priori no va a ser criticable en términos de declaratividad.
 - La recursividad trabajando con listas a veces simplemente es necesaria, porque el problema no se ajusta bien al algoritmo de recorrido estándar que viene resuelto con las funciones de orden superior que ya existen.
 
-Pueden encontrar el código que hicimos en clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/src/Clase4.hs).
+Pueden encontrar el código que hicimos en clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/src/Clase4.hs) y los video de clase de la cursada 2020:
+- [Clase 6.1 - Orden Superior](https://www.youtube.com/watch?v=Gl22i9u-keM&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3)
+- [Clase 6.2 - Listas](https://www.youtube.com/watch?v=7fbSKZdQ5c8&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3)
 
 Luego de esta clase ya casi vimos todos los temas de este paradigma, nos falta revelar un par de misterios más que tenemos bajo la manga. Pero lo que falta sobre todo es práctica, mucha, para terminar de dominar las herramientas así como incorporar algunas nociones más de diseño.
 
