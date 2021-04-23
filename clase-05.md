@@ -7,7 +7,7 @@ En esta clase vimos los siguientes temas:
 - [Aplicación parcial](http://wiki.uqbar.org/wiki/articles/aplicacion-parcial.html)
 - Y de yapa, [Notación Point-free](http://wiki.uqbar.org/wiki/articles/notacion-point-free.html).
 
-El código de la clase lo pueden encontrar [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/src/Clase3.hs) y la clase en vivo de la cursada 2020 [Composición y Aplicación Parcial](https://www.youtube.com/watch?v=CSMljUwpE-s&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3).
+Pueden encontrar el video de la clase en vivo de la cursada 2020 acá: [Composición y Aplicación Parcial](https://www.youtube.com/watch?v=CSMljUwpE-s&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3) y el código correspondiente a esa clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/src/Clase3.hs).
 
 ## Para profundizar y ejercitar
 
