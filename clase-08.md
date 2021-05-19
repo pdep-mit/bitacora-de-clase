@@ -6,7 +6,7 @@ Algo que tenemos que tener en cuenta es que las funciones no son mostrables por 
 
 Hay otras formas un poquito más complejas de encarar estos problemas, definiendo [nuestras propias implementaciones](http://wiki.uqbar.org/wiki/articles/data--definiendo-nuestros-tipos-en-haskell.html#tocAnchor-1-6) para las funciones `show` e `(==)` para nuestros tipos de dato en vez de usar deriving, pero para lo que necesitamos hacer normalmente no hace falta.
 
-Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/src/Clase5.hs) y la clase grabada de 2020: [Práctica: Lambdaprop](https://www.youtube.com/watch?v=vHDtjCwDK-Q&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3)
+Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/2f59d85006cb42706f94bc1cbb08edaceec03592/src/Clase5.hs) y la clase grabada de 2020: [Práctica: Lambdaprop](https://www.youtube.com/watch?v=vHDtjCwDK-Q&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3)
 
 ## Para profundizar y ejercitar
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulo 3 de funcional
