@@ -1,6 +1,6 @@
 # Existe vs. Para Todo
 
-En esta clase vimos un nuevo predicado de orden superior: [forall/2](http://wiki.uqbar.org/wiki/articles/paradigma-logico---el-forall.html), para cuantiricación universal (para todo). Al igual que con el `not/1`, vimos que puede traer [problemas de inversibilidad](http://wiki.uqbar.org/wiki/articles/paradigma-logico---casos-de-no-inversibilidad.html).
+En esta clase vimos un nuevo predicado de orden superior: [forall/2](http://wiki.uqbar.org/wiki/articles/paradigma-logico---el-forall.html), para cuantificación universal (para todo). Al igual que con el `not/1`, vimos que puede traer [problemas de inversibilidad](http://wiki.uqbar.org/wiki/articles/paradigma-logico---casos-de-no-inversibilidad.html).
 
 De esa forma cubrimos todo lo relacionado con existencia (no hace falta usar ningún predicado especial para esto), no existencia y para todo, que es lo que nos faltaba para poder trabajar con [lógica de primer orden](http://wiki.uqbar.org/wiki/articles/paradigma-logico---existe-vs-para-todo.html).
 
