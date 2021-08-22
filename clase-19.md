@@ -4,7 +4,7 @@ En esta clase incorporamos una nueva herramienta de modelado: las [clases](http:
 
 También mencionamos una característica de los objetos que hasta ahora no habíamos presentado: los objetos se diferencian entre ellos no sólo por su estado, sino que tienen [identidad](http://wiki.uqbar.org/wiki/articles/igual-o-identico-----vs---.html).
 
-Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/master/ejemplos-de-clase/src/clase03).
+Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/master/src/clase03).
 
 ## Para profundizar y ejercitar
 
