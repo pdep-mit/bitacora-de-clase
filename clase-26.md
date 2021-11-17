@@ -4,4 +4,8 @@ En esta clase resolvimos el ejercicio de [Pokémon](https://docs.google.com/docu
 
 Pueden encontrar el código de clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/master/src/clase09).
 
+## Para profundizar 
+
+- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes) ver el Módulo 14: Mutabilidad. Igualdad e identidad. 
+
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-25.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-27.md)
