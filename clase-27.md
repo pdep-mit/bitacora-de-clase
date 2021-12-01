@@ -1,6 +1,8 @@
 # Cierre de la materia
 
-Estuvimos viendo algunos ejercicios de final como para refrescar un poco los conceptos de los paradigmas que vimos en la primer parte de la materia, y en caso de no promocionar la materia también tener una noción de qué esperar. Los finales son teórico prácticos con un foco fuerte en los conceptos, tanto particulares de cada paradigma como [transversales](http://wiki.uqbar.org/wiki/articles/paradigmas-de-programacion.html),
+Estuvimos viendo algunos ejercicios de final como para refrescar un poco los conceptos de los paradigmas que vimos en la primer parte de la materia, y en caso de no promocionar la materia también tener una noción de qué esperar. Pueden encontrar el final que resolvimos en clase [acá](https://github.com/pdep-mit/bitacora-de-clase/blob/master/Resoluci%C3%B3n%20Final%20-%202019-12-14.md).
+
+Los finales son teórico prácticos con un foco fuerte en los conceptos, tanto particulares de cada paradigma como [transversales](http://wiki.uqbar.org/wiki/articles/paradigmas-de-programacion.html),
 (que no son propios de un paradigma de programación sino que son conceptos de programación en general).
 
 Una linda forma de cerrar la materia es [volver al principio](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-01.md).
