@@ -1,8 +1,12 @@
-# Parte A
+# Resolución de un final
 
-1- no hace falta usar listas para representar la información
+Enunciado: [Final 2019-12-14](https://docs.google.com/document/d/1BBw-o0t_Zs9BF8FSwyglYgiiS0jQkG4uGnOLDqvbOw0/edit#heading=h.i5mxggzi5478)
 
-```
+## Parte A
+
+1- No hace falta usar listas para representar la información
+
+```prolog
 productoBuscado(mati, mesa(circular, vidrio), 1).
 productoBuscado(mati, silla(metal), 4).
 productoBuscado(leo, sillon(cama, 2), 1).
@@ -10,17 +14,18 @@ productoBuscado(leo, sillon(reclinable, 1), 1).
 ```
 
 Ejemplo de consulta para cumplir lo pedido:
-```
+
+```prolog
 ?- productoBuscado(leo, Producto, _).
 Producto = sillon(cama, 2);
 Producto = sillon(reclinable, 1).
 ```
 
-Como son relaciones, no funciones, podemos hacer consultas con múltiples respuestas.
+Como son **relaciones**, no funciones, podemos hacer consultas con **múltiples respuestas**.
 
 2-
 
-```
+```prolog
 trabajaMaterial(Sucursal, Material):-
   stock(Sucursal, Producto, _),
   material(Producto, Material).
@@ -30,34 +35,37 @@ material(mesa(_, Material), Material).
 material(sillon(_, _), madera).
 ```
 
-Polimorfismo, el predicado material/2 es polimórfico y se aprovecha en la definición de trabajaMaterial/2
+Concepto: **Polimorfismo**, el predicado `material/2` es polimórfico y se aprovecha en la definición de `trabajaMaterial/2`
 
 3-
 
-```
+```prolog
 sucursalIdeal(Sucursal, Cliente):-
   stock(Sucursal, _,_),
   productoBuscado(Cliente, _, _),
-  forall(productoBuscado(Cliente, Producto, CantidadBuscada), (stock(Sucursal, Producto, CantidadEnStock), CantidadEnStock >= CantidadBuscada)).
+  forall(productoBuscado(Cliente, Producto, CantidadBuscada), 
+         (stock(Sucursal, Producto, CantidadEnStock), CantidadEnStock >= CantidadBuscada)).
 ```
 
-Orden Superior
+Concepto: **Orden Superior**, el predicado `forall/2` recibe consultas por parámetro, lo que permite trabajar con el universo de productos buscados por cada cliente, y verificar si todos cumplen con la condición indicada.
 
 ----------
 
-# Parte B
+## Parte B
 
 Función dada:
-```
+```haskell
 funcion x y lista = (filter (> x) . map (\ f -> f y)) lista
 ```
 
 1- Retorna los resultados de aplicar `y` a las funciones de la lista que sean mayores a `x`
 
-(si bien no se pedía, inferimos el tipo de la función para practicar y ayudarnos a responder mejor al 1 y el 3)
-- `funcion :: Ord a => a -> b -> [ b -> a ] -> [ a ]`
+> Si bien no se pedía, inferimos el tipo de la función para practicar y ayudarnos a responder mejor al 1 y el 3):
+>
+> `funcion :: Ord a => a -> b -> [ b -> a ] -> [ a ]`
 
-Propuesta de mejores nombres para la función y sus parámetros para que sea más expresiva:
+Propuesta de mejores nombres para la función y sus parámetros para que sea más **expresiva**:
+
 `transformacionesMayoresA minimo valorATransformar transformaciones = ...`
 
 Es discutible si renombrar el parámetro `f` de la lambda haría que sea más expresiva, porque `f` por convención está fuertemente asociado a la idea de función, pero también podría renombrarse.
@@ -66,27 +74,27 @@ Es discutible si renombrar el parámetro `f` de la lambda haría que sea más ex
 
 Ejemplo: `take 3 (funcion 10 20 (repeat id))`
 
---
-
-Reemplazamos en el tipo que inferimos antes con el tipo de cada parámetro para identificar si el uso es válido y qué retorna:
+3- Reemplazamos en el tipo que inferimos más temprano con el tipo de cada parámetro para identificar si el uso es válido y qué retorna:
 
 a- `funcion 3 "hola" []`
+
 `Int -> String -> [String -> Int] -> [Int]` --> es válida, retornaría `[Int]`
 
 b- `funcion 3 7`
+
 `Int -> Int -> [Int -> Int] -> [Int]` --> es válida, por aplicación parcial retornaría una función de tipo `[Int -> Int] -> [Int]`
 
 c- `funcion "chau" "hola" [length]`
+
 `String -> String -> [ String -> Int ] -> ???`  --> no es válida, no tipa, Int y String no son el mismo tipo
 
-Por el mismo motivo que:
-`4 > "chau"`  --> no tipa
+Por el mismo motivo que: `4 > "chau"`  --> no tipa
 
 El tipo de (>) es: `Ord a => a -> a -> Bool`
 
 ----------
 
-# Parte C
+## Parte C
 
 1a. V, al trabajar con 3 colecciones distintas en Pedido no se están tratando de forma indistinta, por más que todas las prendas entiendan el mismo mensaje tiempo().
 
@@ -98,7 +106,7 @@ El tipo de (>) es: `Ord a => a -> a -> Bool`
 
 Código propuesto que resuelve los problemas identificados:
 
-```
+```wollok
 class Prenda {
   const material
   method tiempo() = material.tiempoFinal(self.tiempoBase())
