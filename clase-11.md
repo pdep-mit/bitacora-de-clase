@@ -10,7 +10,7 @@ Uno de los temas que introdujimos en esta clase es uno de los puntos fuertes de 
 
 Además repasamos algunas nociones de discreta sobre las propiedades de las relaciones binarias para analizar si los predicados que desarrollamos cumplían o no con ser simétricos, reflexivos y/o transitivos, lo cual es algo que está asociado a la naturaleza del problema a resolver y no está de más pensar los problemas en esos términos.
 
-Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase1.pl)
+Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase1.pl) y la clase en vivo de la cursada 2020: [Intro a Lógico](https://www.youtube.com/watch?v=GzlcE2q8eLY&ab_channel=ParadigmasdeProgramaci%C3%B3n-Mi%C3%A9rcolesTarde)
 
 ## Para profundizar y ejercitar
 
