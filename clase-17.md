@@ -21,4 +21,4 @@ Finalmente, [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/mas
 - De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): los primeros 3 módulos cubren los temas que vimos.
 - De Mumuki, las primeras 3 guías cubren los temas de esta clase. Alternativamente, también hay una nueva guía luego de esas 3 que resume esos los temas de las primeras 2 con otro enfoque. También pueden practicar con la guía 5.
 
-[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-18.md)
+[< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16b.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-18.md)
