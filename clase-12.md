@@ -6,7 +6,7 @@ Además aprovechamos para introducir [Aritmética en Prolog](http://wiki.uqbar.o
 
 También vimos que ambos predicados tienen [problemas de inversibilidad](http://wiki.uqbar.org/wiki/articles/paradigma-logico---casos-de-no-inversibilidad.html), con lo cual hay que tomar ciertos recaudos al usarlos para que nuestros predicados sean inversibles.
 
-Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase2.pl)
+Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase2.pl) y la clase en vivo de la cursada 2020: [Inversibilidad y Negación](https://www.youtube.com/watch?v=wUUCyC3k-rk).
 
 ## Para profundizar y ejercitar
 
