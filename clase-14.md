@@ -5,7 +5,7 @@ particularidad de ser un individuo compuesto: el [functor](http://wiki.uqbar.org
 
 Un concepto importante que surgió gracias a estos simpáticos individuos fue [polimorfismo](http://wiki.uqbar.org/wiki/articles/polimorfismo-en-el-paradigma-logico.html).
 
-Pueden encontrar el código [acá](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase4.pl).
+Pueden encontrar el código [acá](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase4.pl) y la clase en vivo de la cursada 2020: [Ti).pos compuestos (parte 1). Polimorfismo.](https://www.youtube.com/watch?v=svcXUVYcwLA).
 
 ## Para profundizar y ejercitar
 
