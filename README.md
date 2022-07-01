@@ -5,7 +5,7 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
 - [Introducción a la materia](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-01.md)
 - Paradigma Funcional
   - [Introducción a Funcional](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-02.md)
-  - [Laboratorio - Cancelado en modalidad virtual](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-03.md)
+  - [EXTRA: Laboratorio - Trabajo con Git](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-03.md)
   - [Tuplas y Datas, Pattern Matching e Inmutabilidad](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-04.md)
   - [Composición y Aplicación Parcial](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-05.md)
   - [Ejercicio](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-06.md)
@@ -19,7 +19,8 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
   - [Cuantificación: Existe vs. Para Todo](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-13.md)
   - [Functores y polimorfismo](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-14.md)
   - [Listas y agregación](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-15.md)
-  - [Ejercicio integrador](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16.md)
+  - [Ejercicio integrador: Las casas de Hogwarts](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16.md)
+  - [Ejercicio integrador: One Piece](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-16b.md)
 - Paradigma Orientado a Objetos
   - [Introducción a Objetos](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-17.md)
   - [Bloques + Testing](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-18.md)
