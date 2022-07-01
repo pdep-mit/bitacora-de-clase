@@ -1,4 +1,4 @@
-# CLASE CANCELADA EN MODALIDAD VIRTUAL!! Laboratorio - Trabajo con versionado de código
+# Laboratorio - Trabajo con versionado de código
 
 - [Apunte de la clase](https://drive.google.com/file/d/1s-ACSAjGru4FdsjVsDRly5dOlfm_Yzmg/view)
 - [Git - apunte introductorio](https://docs.google.com/document/d/166ksg4rSAIrYWStR5yHrUQjFp1OY3DvSoLMcA8CYc34/edit#heading=h.7urotmir6l2i)
