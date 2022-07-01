@@ -12,7 +12,7 @@ Vimos cómo se puede hacer para trabajar con listas [recursivamente](http://wiki
 
 Importante! No olviden que la mayoría de los problemas ya los podíamos resolver sin listas, de forma declarativa. Para no caer en la tentación, les dejamos [Los Donny, no!](https://docs.google.com/presentation/d/e/2PACX-1vSKFGF0920302VpDPVrnRKez_O_wjgDg4_cssbsH3G4RBt7sTKEfl5KnUVchASdH4tnW9Hx8pGHUpdu/embed?start=false&loop=false&delayms=60000) para el uso responsable de findall.
 
-Acá pueden encontrar el [código](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase5.pl) de esta clase.
+Acá pueden encontrar el [código](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase5.pl) de esta clase y la clase en vivo de la cursada 2020: [Tipos compuestos (parte 2)](https://www.youtube.com/watch?v=0Fb6QZXG-5c).
 
 ## Para profundizar y ejercitar
 
