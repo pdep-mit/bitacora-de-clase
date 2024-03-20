@@ -7,9 +7,7 @@ En esta clase estuvimos viendo los siguientes temas:
 
 Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/master/src/Clase6.hs) y la grabación de clase de la cursada 2020: [Estrategias de Evaluación y Listas Infinitas](https://www.youtube.com/watch?v=FiCXtcYk0hs&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3).
 
-## Para profundizar y ejercitar
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 4 y 7 de funcional.
-- De Mumuki:
-  - Práctica Evaluación Diferida, donde van a encontrar ejercicios puntuales donde se aprovecha esto, así como ver cómo usar algunas funciones que ya vienen en Haskell que tienen en la [guía de lenguajes](https://docs.google.com/document/d/1oJ-tyQJoBtJh0kFcsV9wSUpgpopjGtoyhJdPUdjFIJQ/edit#heading=h.j42b4yh3go9l) bajo el título **Funciones de generación de listas**.
+De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 4 y 7 de funcional.
+
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-08.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-10.md)
