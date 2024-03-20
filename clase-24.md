@@ -6,9 +6,7 @@ El manejo de errores no es algo propio del paradigma de objetos, sin embargo for
 
 El código que mostramos en clase (sumado a lo que no mostramos en detalle del lado del juego, que incluye manejos interesantes pero más complejos) está [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/master/src/clase08).
 
-## Para profundizar
-
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
+De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
   - El Módulo 10 explica la necesidad, buenos y malos usos.
   - El Módulo 11 explica, entre muchas otras cosas que pueden interesarles, cómo testear casos infelices.
   
