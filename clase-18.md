@@ -8,8 +8,6 @@ Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemp
 
 Finalmente, para darse una idea rápida del uso de la consola y el test runner pueden ir al sitio de Wollok y ver el [tour](https://www.wollok.org/tour/). Y para la gente curiosa y con ganas de hacer jueguitos, pueden leer sobre Wollok Game [acá](https://www.wollok.org/documentacion/conceptos/).
 
-## Para profundizar
-
 De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
   - El módulo 4 (sección 5) sobre objetos básicos se explica bloques con algunos ejemplos más.
   - El módulo 5 explica más a fondo el por qué, el cuándo y el cómo sobre testeo unitario.
