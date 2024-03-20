@@ -10,9 +10,6 @@ El código de la clase lo pueden encontrar [acá](https://github.com/pdep-mit/ej
 
 > Pueden encontrar un ejemplo de testeo de casos excepcionales [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/blob/master/src/clase04/atencionDeAnimales_parte1.wtest#L131).
 
-## Para profundizar y ejercitar
-
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): el módulo 4 explica cómo trabajar con los distintos tipos de colecciones. El módulo 10 aborda todo lo relativo a excepciones, incluyendo temas **que no vimos todavía**.
-- De Mumuki: las lecciones 6, 7, 8 y 9 cubren estos temas. Además con esto se desbloquea el resto de la lección de clases e instancias, donde se usaban colecciones :)
+De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): el módulo 4 explica cómo trabajar con los distintos tipos de colecciones. El módulo 10 aborda todo lo relativo a excepciones, incluyendo temas **que no vimos todavía**.
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-19.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-21.md)
