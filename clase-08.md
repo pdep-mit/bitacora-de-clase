@@ -8,8 +8,6 @@ Hay otras formas un poquito más complejas de encarar estos problemas, definiend
 
 Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-haskell/blob/2f59d85006cb42706f94bc1cbb08edaceec03592/src/Clase5.hs) y la clase grabada de 2020: [Práctica: Lambdaprop](https://www.youtube.com/watch?v=vHDtjCwDK-Q&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3)
 
-## Para profundizar y ejercitar
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulo 3 de funcional
-- De Mumuki, los últimos ejercicios de la guía de Modelado.
+De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulo 3 de funcional
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-07.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-09.md)
