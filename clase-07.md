@@ -36,14 +36,6 @@ Pueden encontrar el código que hicimos en clase [acá](https://github.com/pdep-
 
 Luego de esta clase ya casi vimos todos los temas de este paradigma, nos falta revelar un par de misterios más que tenemos bajo la manga. Pero lo que falta sobre todo es práctica, mucha, para terminar de dominar las herramientas así como incorporar algunas nociones más de diseño.
 
-## Para profundizar y ejercitar
-
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 5 y 6 de funcional.
-- De Mumuki, con lo que vimos ya podrían hacer todas las guías, pero en particular estas guías sirven como práctica de los temas vistos en esta clase:
-  - Práctica de Aplicación Parcial y Orden Superior
-  - Práctica de Inferencia de Tipos, Recargada
-  - Práctica de Listas
-  - Práctica Recursividad
-  - Dominar el mundo con nada <- tiene algunos ejercicios interesantes para usar fold
+De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 5 y 6 de funcional.
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-06.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-08.md)
