@@ -14,14 +14,11 @@ Importante! No olviden que la mayoría de los problemas ya los podíamos resolve
 
 Acá pueden encontrar el [código](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase5.pl) de esta clase y la clase en vivo de la cursada 2020: [Tipos compuestos (parte 2)](https://www.youtube.com/watch?v=0Fb6QZXG-5c).
 
-## Para profundizar y ejercitar
-
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
+De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
   - En el **Módulo 3** sobre individuos compuestos **se explica listas** más en profundidad de lo que llegamos a ver, incluyendo otros predicados para trabajar con listas sencillos pero menos cotidianos.
   - En el **Módulo 4** sobre predicados de orden superior se explica el predicado **findall/3**.
   - En el **Módulo 5** sobre **recursividad** se termina de explicar este tema para cuando las otras herramientas se quedan cortas.
   - En el **Módulo 6**, en la sección de **Code Smells**, pueden encontrar una versión extendida con ejemplos concretos de los **Donny, no!**.
-- De Mumuki pueden trabajar con todas las guías, ya que terminamos de ver todo el contenido teórico que teníamos planeado para este paradigma.
 
 Finalmente, pueden encontrar contenido adicional muy interesante en el **Módulo 7** de la sección de apuntes. Esto no se evalúa, pero es muy recomendable para entender el poder que gana este paradigma al incorporar las listas como herramienta de modelado, cómo hacer predicados de orden superior, y algún que otro tema BONUS que no cubrimos en clase.
 
