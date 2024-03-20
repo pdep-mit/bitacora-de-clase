@@ -8,11 +8,8 @@ También vimos que ambos predicados tienen [problemas de inversibilidad](http://
 
 Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase2.pl) y la clase en vivo de la cursada 2020: [Inversibilidad y Negación](https://www.youtube.com/watch?v=wUUCyC3k-rk).
 
-## Para profundizar y ejercitar
-
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
+De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
     - Módulo 3 de Lógico - **Individuos Simples** (después se abordan temas que no vimos todavía)
     - Módulo 4 de Lógico - **Predicado not/2** (después se abordan temas que no vimos todavía)
-- De Mumuki pueden trabajar con las guías de aritmética, negación e inversibilidad, a sabiendas de que algunos ejercicios abarcan los temas de la próxima clase.
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-11.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-13.md)
