@@ -6,10 +6,7 @@ De esa forma cubrimos todo lo relacionado con existencia (no hace falta usar nin
 
 Pueden encontrar el código de la clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase3.pl) y la clase en vivo de la cursada 2020: [Existencia, No Existencia, Para Todo](https://www.youtube.com/watch?v=9fj2xF7bFk4).
 
-## Para profundizar y ejercitar
-
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
+De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes):
   - Módulo 4 de Lógico, hasta sección 4 inclusive.
-  - De Mumuki, al incorporar el predicado `forall/2` ya pueden completar las guías 3, 4 y 6.
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-12.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-14.md)
