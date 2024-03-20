@@ -12,9 +12,6 @@ Además repasamos algunas nociones de discreta sobre las propiedades de las rela
 
 Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-prolog/blob/master/clase1.pl) y la clase en vivo de la cursada 2020: [Intro a Lógico](https://www.youtube.com/watch?v=GzlcE2q8eLY&ab_channel=ParadigmasdeProgramaci%C3%B3n-Mi%C3%A9rcolesTarde)
 
-## Para profundizar y ejercitar
-
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 1 y 2 de Lógico.
-- De Mumuki pueden trabajar con las primeras dos guías.
+De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulos 1 y 2 de Lógico.
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-10.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-12.md)
