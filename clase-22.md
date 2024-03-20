@@ -4,9 +4,6 @@ En esta clase vimos el modelo de [herencia simple](http://wiki.uqbar.org/wiki/ar
 
 Pueden encontrar el código de esta clase [acá](https://github.com/pdep-mit/ejemplos-de-clase-wollok/tree/master/src/clase05).
 
-## Para profundizar y ejercitar
-
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes) el Módulo 13: Herencia. Self, super. Redefinición.
-- De Mumuki, la lección 11 cubre estos temas.
+De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes) el Módulo 13: Herencia. Self, super. Redefinición.
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-21.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-22-B.md)
