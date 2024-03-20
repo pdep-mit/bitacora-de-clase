@@ -23,12 +23,6 @@ Acá pueden encontrar el [código de la clase](https://github.com/pdep-mit/ejemp
 - [Intro a Funcional, primeros ejemplos](https://www.youtube.com/watch?v=wtODGk8J0Ng&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3)
 - [Intro a Pattern Matching y Guardas](https://www.youtube.com/watch?v=TIo7c4hWZi0&list=PL2xYJ49ov_dc1hCGcRMvu8VU3jexRUjf3)
 
-## Para profundizar y ejercitar
-
-- De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulo 1 de funcional
-- De Mumuki (Capítulo de Programación Funcional), las guías:
-  - Valores y Funciones (Ejercicios 1 al 9 inclusive).
-  - Práctica Valores y Funciones (todavía no vimos composición, si les pide usar ese concepto, vale saltear el ejercicio y hacerlo luego).
-  - Alternativas: Guardas y Patrones (hasta ejercicio 9 inclusive).
+De la [sección de apuntes](http://www.pdep.com.ar/material/apuntes): Módulo 1 de funcional
 
 [< Clase anterior](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-01.md) - [Clase siguiente >](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-03.md)
