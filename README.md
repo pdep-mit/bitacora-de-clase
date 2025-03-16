@@ -8,7 +8,7 @@ Acá van a encontrar un resumen de los temas vistos en cada clase, con links al 
   - [EXTRA: Laboratorio - Trabajo con Git](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-03.md)
   - [Tuplas y Datas, Pattern Matching e Inmutabilidad](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-04.md)
   - [Composición y Aplicación Parcial](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-05.md)
-  - [Ejercicio: Lambdaprop](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-06.md)
+  - [Ejercicio: A quemar esas grasitas (datas + inmutabilidad + composición + aplicación parcial)](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-06.md)
   - [Orden Superior y Listas](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-07.md)
   - [Modelado con funciones](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-08.md)
   - [Estrategias de Evaluación, Listas infinitas](https://github.com/pdep-mit/bitacora-de-clase/blob/master/clase-09.md)
